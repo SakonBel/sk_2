@@ -93,7 +93,7 @@ export default {
             <div
               v-else-if="
                 current.location[0].slice(1) >= 90 &&
-                current.location[0].slice(1) <= 93
+                current.location[0].slice(1) <= 101
               "
             >
               รองเท้าลำลองผู้ชาย
