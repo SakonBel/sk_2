@@ -41,6 +41,7 @@ export default {
           });
         }
 
+        // skip the same name data
         itemName = item["Item No."];
       });
 
@@ -61,6 +62,7 @@ export default {
           allSize.push(`${item.Variant}=${item["Net Inventory"]}`);
         }
 
+        // skip the same name data
         itemName = item["Item No."];
       });
 
@@ -86,7 +88,6 @@ export default {
       items.forEach((item, index) => {
         item["sizes"] = itemSize[index];
       });
-
       return items;
     },
     newItems() {
