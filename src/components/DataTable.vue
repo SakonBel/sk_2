@@ -23,6 +23,12 @@ export default {
       <tbody>
         <tr v-for="(row, index) in newItems" :key="row.id">
           <td>
+            <img
+              :src="oldUrl.replace('***', row.name.replace('-', '_'))"
+              alt=""
+              width="200"
+              height="200"
+            />
             <h5>
               {{ row.name }}
             </h5>
@@ -42,13 +48,6 @@ export default {
             <h5 v-show="row.isOnPromotion" class="text-danger">
               ราคาลด<span> {{ row.sale }}-</span>
             </h5>
-
-            <img
-              :src="oldUrl.replace('***', row.name.replace('-', '_'))"
-              alt=""
-              width="200"
-              height="200"
-            />
           </td>
           <td>
             <p>
@@ -117,6 +116,7 @@ export default {
 }
 
 img {
+  margin-bottom: 20px;
   border-radius: 15px;
   box-shadow: 5px 5px 10px gainsboro;
 }
