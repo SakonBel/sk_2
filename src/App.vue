@@ -1,6 +1,9 @@
 <script>
 import data from "./assets/stock.json";
 import location from "./assets/location.json";
+import price from "./assets/price.json";
+import promotion from "./assets/promotion.json";
+
 import datatable from "./components/DataTable.vue";
 import singleitem from "./components/SingleItem.vue";
 
@@ -22,6 +25,7 @@ export default {
     };
   },
   computed: {
+    // initialize data placeholder
     items() {
       let itemName = "";
       let items = [];
@@ -84,10 +88,43 @@ export default {
         });
       });
 
+      // Add price to items
+      price.forEach((itemPrice) => {
+        items.forEach((item) => {
+          if (itemPrice["No. Item"] === item.name) {
+            item.price = itemPrice["Retail Price"];
+            item.sale = itemPrice["Unit Price"];
+            item.disc = itemPrice["Disc."];
+            item.isOnPromotion = false;
+          }
+        });
+      });
+
+      // Separate one price items
+      items.forEach((item) => {
+        if (item.price !== item.sale) {
+          item.isOnPromotion = true;
+          item.proName = "One Price";
+        }
+      });
+
+      // Add additional promotion
+      promotion.forEach((proPrice) => {
+        items.forEach((item) => {
+          if (proPrice["No."] === item.name) {
+            item.sale = proPrice[" Sales Price "];
+            item.disc = proPrice["Disc."];
+            item.isOnPromotion = true;
+            item.proName = "F&F";
+          }
+        });
+      });
+
       // Add sizes to items appropriately
       items.forEach((item, index) => {
         item["sizes"] = itemSize[index];
       });
+
       return items;
     },
     newItems() {
