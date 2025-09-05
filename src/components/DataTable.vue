@@ -115,10 +115,15 @@ export default {
   z-index: 999;
 }
 
+hr {
+  color: gray;
+  width: 70%;
+}
+
 img {
   margin-bottom: 20px;
   border-radius: 15px;
-  box-shadow: 5px 5px 10px gainsboro;
+  box-shadow: 5px 5px 5px gainsboro;
 }
 
 thead {
