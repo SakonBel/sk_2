@@ -473,7 +473,7 @@
     "Variant": "9",
     "Description": "104624-NAT_VAPOR FOAM MOVE",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "104637-LAV",
@@ -1250,7 +1250,7 @@
     "Variant": "9",
     "Description": "111126-NAT_MAX CUSHIONING FOAM",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111127-LAV",
@@ -2195,7 +2195,7 @@
     "Variant": "8",
     "Description": "111385-BBK_ARCH FIT FOAMIES",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "111385-BBK",
@@ -2377,7 +2377,7 @@
     "Variant": "7",
     "Description": "111581-LAV_FOAMIES SURGE",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111581-LAV",
@@ -2811,7 +2811,7 @@
     "Variant": "7",
     "Description": "111678-LAV_FOAMIES TAI",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111678-LAV",
@@ -3305,13 +3305,6 @@
   },
   {
     "Item No.": "125053-LVLP",
-    "Variant": "8.5",
-    "Description": "125053-LVLP_GO WALK MAX WALKER",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125053-LVLP",
     "Variant": "9",
     "Description": "125053-LVLP_GO WALK MAX WALKER",
     "UOM": "PAIR",
@@ -3372,13 +3365,6 @@
     "Description": "125063-BKLV_GO WALK MAX WALKER",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125063-BKLV",
-    "Variant": "6",
-    "Description": "125063-BKLV_GO WALK MAX WALKER",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "125063-BKLV",
@@ -4089,13 +4075,6 @@
   },
   {
     "Item No.": "125204-OWHT",
-    "Variant": "5",
-    "Description": "125204-OWHT_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "125204-OWHT",
     "Variant": "6",
     "Description": "125204-OWHT_GO WALK 7",
     "UOM": "PAIR",
@@ -4526,7 +4505,7 @@
     "Variant": "7",
     "Description": "125215-WHT_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125215-WHT",
@@ -4799,7 +4778,7 @@
     "Variant": "8",
     "Description": "125225-WHT_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125225-WHT",
@@ -5702,7 +5681,7 @@
     "Variant": "7",
     "Description": "125310-ROS_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125310-ROS",
@@ -5898,7 +5877,7 @@
     "Variant": "7",
     "Description": "125315-BKW_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125315-BKW",
@@ -7799,13 +7778,6 @@
   },
   {
     "Item No.": "128947W-NTPK",
-    "Variant": "8.5",
-    "Description": "128947W-NTPK_MAXCUSH ARCH FIT2",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "128947W-NTPK",
     "Variant": "9",
     "Description": "128947W-NTPK_MAXCUSH ARCH FIT2",
     "UOM": "PAIR",
@@ -7845,13 +7817,6 @@
     "Description": "128948-GYSL_MAX CUSH ARCH FIT2",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "128948-GYSL",
-    "Variant": "8.5",
-    "Description": "128948-GYSL_MAX CUSH ARCH FIT2",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "128948-GYSL",
@@ -8054,7 +8019,7 @@
     "Variant": "6",
     "Description": "129400-BKBL_MAX CUSH GLIDE-STE",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129400-BKBL",
@@ -8171,13 +8136,6 @@
   {
     "Item No.": "129400-WPK",
     "Variant": "6",
-    "Description": "129400-WPK_MAX CUSH GLIDE-STEP",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "129400-WPK",
-    "Variant": "7",
     "Description": "129400-WPK_MAX CUSH GLIDE-STEP",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -8334,7 +8292,7 @@
     "Variant": "9",
     "Description": "129470-WBK_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "129470-WBK",
@@ -8369,7 +8327,7 @@
     "Variant": "7",
     "Description": "129473-BKW_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129473-BKW",
@@ -8719,7 +8677,7 @@
     "Variant": "8",
     "Description": "129601-WHT_MAX CUSH ELITE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "129601-WHT",
@@ -8745,13 +8703,6 @@
   {
     "Item No.": "129601W-WLV",
     "Variant": "6",
-    "Description": "129601W-WLV_MAX CUSH ELITE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "129601W-WLV",
-    "Variant": "6.5",
     "Description": "129601W-WLV_MAX CUSH ELITE 2.0",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -9416,13 +9367,6 @@
   },
   {
     "Item No.": "129631-OFWT",
-    "Variant": "8",
-    "Description": "129631-OFWT_MAX CUSH ELITE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "129631-OFWT",
     "Variant": "9",
     "Description": "129631-OFWT_MAX CUSH ELITE 2.0",
     "UOM": "PAIR",
@@ -10749,7 +10693,7 @@
     "Variant": "7",
     "Description": "140892-BBK_GOWALKARCHFIT2.0 SA",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "140892-BBK",
@@ -11071,7 +11015,7 @@
     "Variant": "6",
     "Description": "141057-NAT_GO WALK 7 SANDAL",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "141057-NAT",
@@ -12665,13 +12609,6 @@
   {
     "Item No.": "150475-GRY",
     "Variant": "5",
-    "Description": "150475-GRY_EDGERIDE",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "150475-GRY",
-    "Variant": "6",
     "Description": "150475-GRY_EDGERIDE",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -12909,13 +12846,6 @@
   },
   {
     "Item No.": "150520-OWBR",
-    "Variant": "6.5",
-    "Description": "150520-OWBR_D'LITES 5.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "150520-OWBR",
     "Variant": "7",
     "Description": "150520-OWBR_D'LITES 5.0",
     "UOM": "PAIR",
@@ -12933,7 +12863,7 @@
     "Variant": "8",
     "Description": "150520-OWBR_D'LITES 5.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "150520-OWBR",
@@ -13059,7 +12989,7 @@
     "Variant": "8",
     "Description": "150563-BBK_SKECH CLOUD",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "150563-BBK",
@@ -13073,7 +13003,7 @@
     "Variant": "6",
     "Description": "150563-WLV_SKECH CLOUD",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "150563-WLV",
@@ -13624,13 +13554,6 @@
   {
     "Item No.": "158989-TPE",
     "Variant": "11",
-    "Description": "158989-TPE_ARYA",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "158989-TPE",
-    "Variant": "6",
     "Description": "158989-TPE_ARYA",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -14004,7 +13927,7 @@
     "Variant": "8",
     "Description": "177356-WGY_SKECHERS SHADOW",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "177356-WGY",
@@ -14200,7 +14123,7 @@
     "Variant": "8",
     "Description": "180157-WHT_SWITCH BACK",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "180157-WHT",
@@ -14501,18 +14424,11 @@
     "Variant": "11",
     "Description": "183216-GUN_SKECHERS SHADOW",
     "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "183216-GUN",
-    "Variant": "12",
-    "Description": "183216-GUN_SKECHERS SHADOW",
-    "UOM": "PAIR",
     "Net Inventory": "1"
   },
   {
     "Item No.": "183216-GUN",
-    "Variant": "13",
+    "Variant": "12",
     "Description": "183216-GUN_SKECHERS SHADOW",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -14536,7 +14452,7 @@
     "Variant": "9",
     "Description": "183216-GUN_SKECHERS SHADOW",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "183216-SIL",
@@ -15103,7 +15019,7 @@
     "Variant": "9",
     "Description": "204321-RDBR_RESPECTED",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "204809-BLK",
@@ -15215,7 +15131,7 @@
     "Variant": "9",
     "Description": "204809-TPE_RESPECTED",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "204848-BLK",
@@ -15362,7 +15278,7 @@
     "Variant": "7.5",
     "Description": "205046-BBK_GARZA",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "205046-BBK",
@@ -16573,7 +16489,7 @@
     "Variant": "9",
     "Description": "216581-NVY_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216589-OFWT",
@@ -17172,13 +17088,6 @@
   },
   {
     "Item No.": "216641-BBK",
-    "Variant": "9",
-    "Description": "216641-BBK_GO WALK 7",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216641-BBK",
     "Variant": "9.5",
     "Description": "216641-BBK_GO WALK 7",
     "UOM": "PAIR",
@@ -17287,7 +17196,7 @@
     "Variant": "9",
     "Description": "216641WW-BKW_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216641WW-GYYL",
@@ -19118,13 +19027,6 @@
   },
   {
     "Item No.": "220581-BBK",
-    "Variant": "11",
-    "Description": "220581-BBK_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "220581-BBK",
     "Variant": "8",
     "Description": "220581-BBK_MAX CUSH ARCH FIT2.",
     "UOM": "PAIR",
@@ -19184,7 +19086,7 @@
     "Variant": "9",
     "Description": "220581-GYBL_MAX CUSH ARCH FIT2",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "220581-GYBL",
@@ -19328,17 +19230,10 @@
   },
   {
     "Item No.": "220612-BKGY",
-    "Variant": "10.5",
-    "Description": "220612-BKGY_MAX CUSH ENDEAVOUR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "220612-BKGY",
     "Variant": "8",
     "Description": "220612-BKGY_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "220612-BKGY",
@@ -19384,13 +19279,6 @@
   },
   {
     "Item No.": "220612-OFWT",
-    "Variant": "8.5",
-    "Description": "220612-OFWT_MAX CUSH ENDEAVOUR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "220612-OFWT",
     "Variant": "9",
     "Description": "220612-OFWT_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
@@ -19416,13 +19304,6 @@
     "Description": "220614-BKGY_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "220614-BKGY",
-    "Variant": "13",
-    "Description": "220614-BKGY_MAX CUSH ENDEAVOUR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "220614-BKGY",
@@ -19458,13 +19339,6 @@
     "Description": "220614-TPBK_MAX CUSH ENDEAVOUR",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "220614-TPBK",
-    "Variant": "10.5",
-    "Description": "220614-TPBK_MAX CUSH ENDEAVOUR",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "220614-TPBK",
@@ -19581,13 +19455,6 @@
   {
     "Item No.": "220649-NVLM",
     "Variant": "8",
-    "Description": "220649-NVLM_GO RUN 7.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "220649-NVLM",
-    "Variant": "8.5",
     "Description": "220649-NVLM_GO RUN 7.0",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -19779,7 +19646,7 @@
     "Variant": "10",
     "Description": "220839WW-BBK_MAX CUSH PRE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "220839WW-BBK",
@@ -19803,20 +19670,6 @@
     "Net Inventory": "1"
   },
   {
-    "Item No.": "220839WW-BBK",
-    "Variant": "9",
-    "Description": "220839WW-BBK_MAX CUSH PRE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "220839WW-BBK",
-    "Variant": "9.5",
-    "Description": "220839WW-BBK_MAX CUSH PRE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "220839WW-CCBK",
     "Variant": "10",
     "Description": "220839WW-CCBK_MAX CUSH PRE 2.0",
@@ -19828,7 +19681,7 @@
     "Variant": "8",
     "Description": "220839WW-CCBK_MAX CUSH PRE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "220839WW-CCBK",
@@ -20038,7 +19891,7 @@
     "Variant": "9",
     "Description": "220840WW-WBK_MAX CUSH PRE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "220840WW-WBK",
@@ -20857,7 +20710,7 @@
     "Variant": "9",
     "Description": "229357-BKW_GO WALK 7 SANDAL",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "229357-WNV",
@@ -22621,7 +22474,7 @@
     "Variant": "10",
     "Description": "237744-BBK_VIGOR AT",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "237744-BBK",
@@ -22796,7 +22649,7 @@
     "Variant": "8",
     "Description": "243160-CHAR_ARCH FIT FOAMIES",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "243160-CHAR",
@@ -23706,7 +23559,7 @@
     "Variant": "9",
     "Description": "246084-RDBK_GO RUN PERSISTEN 2",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "246084-RDBK",
@@ -24077,7 +23930,7 @@
     "Variant": "13",
     "Description": "302298L-LVMT_UNICORN CHASER",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "302298L-LVMT",
@@ -24203,14 +24056,14 @@
     "Variant": "9",
     "Description": "302298N-PKMT_UNICORN CHASER",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "302631L-BBK",
     "Variant": "1",
     "Description": "302631L-BBK_DREAMY LITES",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "302631L-BBK",
@@ -24497,7 +24350,7 @@
     "Variant": "2",
     "Description": "303060L-BLMT_MERMAID DREAMS",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "303060L-BLMT",
@@ -25174,13 +25027,6 @@
   {
     "Item No.": "303624L-WMLT",
     "Variant": "13",
-    "Description": "303624L-WMLT_FLOWER FRIENDS",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "303624L-WMLT",
-    "Variant": "2",
     "Description": "303624L-WMLT_FLOWER FRIENDS",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -28130,7 +27976,7 @@
     "Variant": "2",
     "Description": "403844L-BKW_ULTRA FLEX 3.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "403844L-BLU",
@@ -28458,13 +28304,6 @@
     "Item No.": "403934L-BBLM",
     "Variant": "4",
     "Description": "403934L-BBLM_MICROSPEC MAX ADV",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "403934L-BKCC",
-    "Variant": "1",
-    "Description": "403934L-BKCC_MICROSPEC MAX ADV",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
@@ -29488,7 +29327,7 @@
     "Variant": "0",
     "Description": "L124K062-03UL_BACKPACK",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "L124U039-03XJ",
@@ -29647,13 +29486,6 @@
   {
     "Item No.": "L125M028-0018",
     "Variant": "S",
-    "Description": "L125M028-0018_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "L125M028-0018",
-    "Variant": "XL",
     "Description": "L125M028-0018_SHORTS",
     "UOM": "PCS",
     "Net Inventory": "2"
@@ -30286,7 +30118,7 @@
     "Variant": "L",
     "Description": "L125W045-0018_DRESS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "L125W045-0018",
@@ -30517,7 +30349,7 @@
     "Variant": "L",
     "Description": "L224M032-0074_SHORT SLEEVE TEE",
     "UOM": "PCS",
-    "Net Inventory": "6"
+    "Net Inventory": "5"
   },
   {
     "Item No.": "L224M032-0074",
@@ -30699,7 +30531,7 @@
     "Variant": "M",
     "Description": "L224M036-0018_PANTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "L224M036-0018",
@@ -30720,14 +30552,14 @@
     "Variant": "M",
     "Description": "L224M036-0409_PANTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "L224M036-0409",
     "Variant": "S",
     "Description": "L224M036-0409_PANTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "L224M036-0409",
@@ -30735,13 +30567,6 @@
     "Description": "L224M036-0409_PANTS",
     "UOM": "PCS",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "L224M036-0409",
-    "Variant": "XXL",
-    "Description": "L224M036-0409_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "L224M037-02PF",
@@ -30895,7 +30720,7 @@
     "Variant": "0",
     "Description": "L224U020-0018_FISHERMAN HAT",
     "UOM": "PCS",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "L224U020-013N",
@@ -31056,7 +30881,7 @@
     "Variant": "M",
     "Description": "L225M004-026U_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "L225M004-026U",
@@ -31126,7 +30951,7 @@
     "Variant": "M",
     "Description": "L225U001-0480_HOODED JACKET",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "L225U001-0480",
@@ -31511,7 +31336,7 @@
     "Variant": "M",
     "Description": "L325UHK5-0018_SHORT SLEEVE TEE",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "L325UHK5-0018",
@@ -31539,7 +31364,7 @@
     "Variant": "M",
     "Description": "L325UHK5-0019_SHORT SLEEVE TEE",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "L325UHK5-0019",
@@ -31791,7 +31616,7 @@
     "Variant": "M",
     "Description": "P125M048-0018_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "P125M048-0018",
@@ -31812,7 +31637,7 @@
     "Variant": "M",
     "Description": "P125M048-02N6_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "P125M048-02N6",
@@ -32267,7 +32092,7 @@
     "Variant": "M",
     "Description": "P125W050-0018_HOODED JACKET",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "P125W050-0018",
@@ -32387,13 +32212,6 @@
     "Description": "P224M049-0018_POLO",
     "UOM": "PCS",
     "Net Inventory": "3"
-  },
-  {
-    "Item No.": "P224M049-0018",
-    "Variant": "M",
-    "Description": "P224M049-0018_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "P224M049-0018",
@@ -32543,13 +32361,6 @@
     "Net Inventory": "5"
   },
   {
-    "Item No.": "P224U020-01LU",
-    "Variant": "0",
-    "Description": "P224U020-01LU_BASEBALL CAP",
-    "UOM": "PCS",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "P224U020-022G",
     "Variant": "0",
     "Description": "P224U020-022G_BASEBALL CAP",
@@ -32638,7 +32449,7 @@
     "Variant": "S",
     "Description": "P224W097-0018_PANTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "P224W097-0018",
@@ -32701,7 +32512,7 @@
     "Variant": "S",
     "Description": "P224W114-0018_PANTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "P224W114-0018",
@@ -32848,7 +32659,7 @@
     "Variant": "0",
     "Description": "P324U012-0018_BACKPACK",
     "UOM": "PCS",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "P324U014-00MM",
@@ -33086,7 +32897,7 @@
     "Variant": "L",
     "Description": "P424W184-02W6_HOODED JACKET",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "P424W184-02W6",
@@ -33114,7 +32925,7 @@
     "Variant": "L",
     "Description": "P424W184-03B6_HOODED JACKET",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "P424W184-03B6",
@@ -33246,13 +33057,6 @@
     "Item No.": "P424W193-0548",
     "Variant": "XL",
     "Description": "P424W193-0548_SPORTS BRA",
-    "UOM": "PCS",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "P424W194-03B6",
-    "Variant": "L",
-    "Description": "P424W194-03B6_LEGGINGS",
     "UOM": "PCS",
     "Net Inventory": "1"
   },
@@ -33443,7 +33247,7 @@
     "Variant": "9-11",
     "Description": "S110703-105_NO SHOW SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "9"
+    "Net Inventory": "8"
   },
   {
     "Item No.": "S112219-001",
@@ -33562,7 +33366,7 @@
     "Variant": "",
     "Description": "SK0027-AST_TRAVEL KIT",
     "UOM": "PCS",
-    "Net Inventory": "12"
+    "Net Inventory": "11"
   },
   {
     "Item No.": "SKCH8476-BLK",
@@ -33667,7 +33471,7 @@
     "Variant": "L",
     "Description": "SL125M003-0067_RAGLAN SLEEVE T",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SL125M003-0067",
@@ -33717,13 +33521,6 @@
     "Description": "SL125M003-054U_RAGLAN SLEEVE T",
     "UOM": "PCS",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "SL125M004-0067",
-    "Variant": "L",
-    "Description": "SL125M004-0067_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "SL125M004-0067",
@@ -33828,7 +33625,7 @@
     "Variant": "S",
     "Description": "SL125M005-DAA1_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SL125M005-DAA1",
@@ -33842,7 +33639,7 @@
     "Variant": "L",
     "Description": "SL125M006-054U_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SL125M006-054U",
@@ -33877,7 +33674,7 @@
     "Variant": "M",
     "Description": "SL125M008-0067_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SL125M008-0067",
@@ -33954,7 +33751,7 @@
     "Variant": "L",
     "Description": "SL125M010-054U_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SL125M010-054U",
@@ -34038,7 +33835,7 @@
     "Variant": "L",
     "Description": "SL125M231-0067_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SL125M231-0067",
@@ -34108,7 +33905,7 @@
     "Variant": "S",
     "Description": "SL125M231-054U_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SL125M231-054U",
@@ -34116,13 +33913,6 @@
     "Description": "SL125M231-054U_SHORT SLEEVE TE",
     "UOM": "PCS",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "SL125M232-0067",
-    "Variant": "L",
-    "Description": "SL125M232-0067_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "SL125M232-0067",
@@ -34763,13 +34553,6 @@
   },
   {
     "Item No.": "SL125W014-03PF",
-    "Variant": "S",
-    "Description": "SL125W014-03PF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "SL125W014-03PF",
     "Variant": "XL",
     "Description": "SL125W014-03PF_SHORT SLEEVE TE",
     "UOM": "PCS",
@@ -34913,7 +34696,7 @@
     "Variant": "XL",
     "Description": "SL125W021-00VX_LONG PANTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SL125W021-04UQ",
@@ -34941,7 +34724,7 @@
     "Variant": "XL",
     "Description": "SL125W021-04UQ_LONG PANTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SL224U018-CRNV",
@@ -37321,7 +37104,7 @@
     "Variant": "M",
     "Description": "SP125M034-0018_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP125M034-0018",
@@ -37496,7 +37279,7 @@
     "Variant": "L",
     "Description": "SP125M041-02L2_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP125M041-02L2",
@@ -37786,13 +37569,6 @@
     "Net Inventory": "1"
   },
   {
-    "Item No.": "SP125M047-0018",
-    "Variant": "XL",
-    "Description": "SP125M047-0018_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "SP125M047-04SZ",
     "Variant": "L",
     "Description": "SP125M047-04SZ_SHORTS",
@@ -37818,7 +37594,7 @@
     "Variant": "XL",
     "Description": "SP125M047-04SZ_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP125M048-0018",
@@ -38567,7 +38343,7 @@
     "Variant": "L",
     "Description": "SP125W165-0018_SPORTS BRA",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP125W165-0018",
@@ -38637,7 +38413,7 @@
     "Variant": "L",
     "Description": "SP125W167-04QJ_TIGHTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP125W167-04QJ",
@@ -38827,13 +38603,6 @@
     "Description": "SP125W174-0024_SHORT SLEEVE TE",
     "UOM": "PCS",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "SP125W174-0024",
-    "Variant": "S",
-    "Description": "SP125W174-0024_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "SP125W175-0018",
@@ -39148,7 +38917,7 @@
     "Variant": "L",
     "Description": "SP225W179-0018_TIGHTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP225W179-0018",
@@ -39173,13 +38942,6 @@
   },
   {
     "Item No.": "SP225W179-036J",
-    "Variant": "S",
-    "Description": "SP225W179-036J_TIGHTS",
-    "UOM": "PCS",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "SP225W179-036J",
     "Variant": "XL",
     "Description": "SP225W179-036J_TIGHTS",
     "UOM": "PCS",
@@ -39218,7 +38980,7 @@
     "Variant": "L",
     "Description": "SP225W180-036J_TIGHTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP225W180-036J",
@@ -39260,7 +39022,7 @@
     "Variant": "S",
     "Description": "SP225W181-036J_TANK",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP225W181-036J",
@@ -39344,7 +39106,7 @@
     "Variant": "L",
     "Description": "SP225W185-0018_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP225W185-0018",
@@ -39372,7 +39134,7 @@
     "Variant": "L",
     "Description": "SP225W185-036J_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP225W185-036J",
@@ -39400,7 +39162,7 @@
     "Variant": "M",
     "Description": "SP225W186-0018_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP225W186-0018",
@@ -41374,7 +41136,7 @@
     "Variant": "0",
     "Description": "SP424U721-02L2_CROSS BODY BAG",
     "UOM": "PCS",
-    "Net Inventory": "5"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP424U722-GRN1",
@@ -41591,7 +41353,7 @@
     "Variant": "S",
     "Description": "SP424W562-STL1_TANK",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP424W562-STL1",
@@ -41647,7 +41409,7 @@
     "Variant": "S",
     "Description": "SP424W563-RDO1_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP424W563-RDO1",

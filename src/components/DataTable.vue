@@ -36,17 +36,18 @@ export default {
               {{ row.desc.split("_")[1] }}
             </h6>
             <hr />
-            <h6 v-show="row.isOnPromotion" class="text-info">
+            <h6 v-show="row.isOnPromotion" :class="row.proCat">
               โปรโมชั่น : {{ row.proName }}
+              <span class="desc"> (5-9 ก.ย 2568)</span>
             </h6>
             <h6 v-show="!row.isOnPromotion">
               ราคา<span> {{ row.price }}-</span>
             </h6>
-            <h6 v-show="row.isOnPromotion">
-              ราคาเต็ม<span> {{ row.price }}-</span>
-            </h6>
+            <h6 v-show="row.isOnPromotion">ราคาเต็ม {{ row.price }}-</h6>
             <h5 v-show="row.isOnPromotion" class="text-danger">
-              ราคาลด<span> {{ row.sale }}-</span>
+              ราคาลด {{ row.sale }}-<span class="desc">
+                (ลด {{ row.disc }})</span
+              >
             </h5>
           </td>
           <td>
@@ -70,6 +71,7 @@ export default {
               >
             </p>
 
+            <!-- Sizes table -->
             <table class="table table-bordered table-striped">
               <thead class="table-primary">
                 <tr>
@@ -88,7 +90,9 @@ export default {
                         ? size.split("=")[1]
                         : Math.trunc(size.split("=")[1])
                     }}
-                    {{ row.uom }}
+                    <span v-if="row.uom == 'PAIR'">คู่</span>
+                    <span v-else-if="row.uom == 'PACK'">แพ็ค</span>
+                    <span v-else-if="row.uom == 'PCS'">ชิ้น</span>
                   </td>
                 </tr>
               </tbody>
@@ -113,6 +117,26 @@ export default {
 
 .big-one {
   z-index: 999;
+}
+
+.Main {
+  display: inline-block;
+  color: beige;
+  background-color: goldenrod;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.Sale {
+  display: inline-block;
+  color: beige;
+  background-color: maroon;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.desc {
+  font-size: x-small;
 }
 
 hr {

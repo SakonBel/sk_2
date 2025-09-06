@@ -105,6 +105,7 @@ export default {
         if (item.price !== item.sale) {
           item.isOnPromotion = true;
           item.proName = "One Price";
+          item.proCat = "Sale";
         }
       });
 
@@ -116,6 +117,7 @@ export default {
             item.disc = proPrice["Disc."];
             item.isOnPromotion = true;
             item.proName = "F&F";
+            item.proCat = "Main";
           }
         });
       });
