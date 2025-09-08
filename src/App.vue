@@ -129,15 +129,42 @@ export default {
 
       return items;
     },
+    randomItems() {
+      const set_01 = this.items.slice(0, 50);
+      const set_02 = this.items.slice(51, 100);
+      const set_03 = this.items.slice(101, 150);
+      const set_04 = this.items.slice(151, 200);
+      const set_05 = this.items.slice(201, 250);
+      const set_06 = this.items.slice(251, 300);
+      const set_07 = this.items.slice(301, 350);
+      const set_08 = this.items.slice(351, 400);
+      const set_09 = this.items.slice(401, 450);
+      const set_10 = this.items.slice(451, 500);
+
+      const randomArr = [
+        set_01,
+        set_02,
+        set_03,
+        set_04,
+        set_05,
+        set_06,
+        set_07,
+        set_08,
+        set_09,
+        set_10,
+      ];
+
+      return randomArr[Math.floor(Math.random() * randomArr.length)];
+    },
     newItems() {
-      if (this.searchValue.trim().length > 0) {
+      if (this.searchValue.trim().length > 3) {
         return this.items.filter((item) =>
           (item.name.split("-")[0] + item.name.split("-")[1])
             .toLowerCase()
             .includes(this.searchValue.trim().toLowerCase())
         );
       }
-      return this.items;
+      return this.randomItems;
     },
     current() {
       if (this.cr === "") {

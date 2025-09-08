@@ -4,7 +4,7 @@ export default {
   props: ["newItems", "getLocation"],
   data() {
     return {
-      oldUrl:
+      usaUrl:
         "https://images.skechers.com/image;width=800%2Cformat=auto/***_PROFILE_01",
     };
   },
@@ -26,7 +26,7 @@ export default {
             <img
               v-if="row.name.split('-')[0].substr(-1) == 'W'"
               :src="
-                oldUrl.replace(
+                usaUrl.replace(
                   '***',
                   row.name.split('-')[0].substr(0, 6) +
                     '_' +
@@ -39,7 +39,7 @@ export default {
             />
             <img
               v-else
-              :src="oldUrl.replace('***', row.name.replace('-', '_'))"
+              :src="usaUrl.replace('***', row.name.replace('-', '_'))"
               alt=""
               width="200"
               height="200"
