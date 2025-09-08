@@ -21,9 +21,24 @@ export default {
         </tr>
       </thead>
       <tbody>
-        <tr v-for="(row, index) in newItems" :key="row.id">
+        <tr v-for="(row, index) in newItems" :key="row.id" class="big-table">
           <td>
             <img
+              v-if="row.name.split('-')[0].substr(-1) == 'W'"
+              :src="
+                oldUrl.replace(
+                  '***',
+                  row.name.split('-')[0].substr(0, 6) +
+                    '_' +
+                    row.name.split('-')[1]
+                )
+              "
+              alt=""
+              width="200"
+              height="200"
+            />
+            <img
+              v-else
               :src="oldUrl.replace('***', row.name.replace('-', '_'))"
               alt=""
               width="200"
@@ -35,7 +50,6 @@ export default {
             <h6>
               {{ row.desc.split("_")[1] }}
             </h6>
-            <hr />
             <h6 v-show="row.isOnPromotion" :class="row.proCat">
               โปรโมชั่น : {{ row.proName }}
               <span class="desc"> (5-9 ก.ย 2568)</span>
@@ -139,12 +153,17 @@ export default {
   font-size: x-small;
 }
 
+.big-table {
+  border-bottom: 4px solid black;
+}
+
 hr {
   color: gray;
   width: 70%;
 }
 
 img {
+  margin-top: 10px;
   margin-bottom: 20px;
   border-radius: 15px;
   box-shadow: 5px 5px 5px gainsboro;
