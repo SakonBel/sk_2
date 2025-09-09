@@ -50,19 +50,26 @@ export default {
             <h6>
               {{ row.desc.split("_")[1] }}
             </h6>
-            <h6 v-show="row.isOnPromotion" :class="row.proCat">
-              โปรโมชั่น : {{ row.proName }}
-              <span class="desc"> (5-9 ก.ย 2568)</span>
-            </h6>
-            <h6 v-show="!row.isOnPromotion">
-              ราคา<span> {{ row.price }}-</span>
-            </h6>
-            <h6 v-show="row.isOnPromotion">ราคาเต็ม {{ row.price }}-</h6>
-            <h5 v-show="row.isOnPromotion" class="text-danger">
-              ราคาลด {{ row.sale }}-<span class="desc">
-                (ลด {{ row.disc }})</span
-              >
-            </h5>
+            <div :class="row.proCat + '-price-table'">
+              <h6 v-show="row.isOnPromotion" :class="row.proCat">
+                โปรโมชั่น : {{ row.proName }}
+                <span v-if="row.proCat == 'Sale'" class="desc">
+                  (1-30 ก.ย 2568)</span
+                >
+                <span v-else class="desc"> (10-30 ก.ย 2568)</span>
+              </h6>
+              <div class="inner-price-table">
+                <h6 class="reg-price" v-show="!row.isOnPromotion">
+                  ราคา<span> {{ row.price }}-</span>
+                </h6>
+                <h6 v-show="row.isOnPromotion">ราคาเต็ม {{ row.price }}-</h6>
+                <h5 v-show="row.isOnPromotion" :class="row.proCat + '-price'">
+                  ราคาลด {{ row.sale }}-<span class="desc">
+                    (ลด {{ row.disc }})</span
+                  >
+                </h5>
+              </div>
+            </div>
           </td>
           <td>
             <p>
@@ -134,19 +141,39 @@ export default {
 }
 
 .Main {
-  display: inline-block;
-  color: beige;
-  background-color: goldenrod;
+  color: black;
+  background-color: navajowhite;
   padding: 5px;
-  border-radius: 5px;
+}
+
+.Main-price {
+  color: rgb(188, 142, 26);
 }
 
 .Sale {
-  display: inline-block;
   color: beige;
   background-color: maroon;
   padding: 5px;
-  border-radius: 5px;
+}
+
+.Sale-price {
+  color: maroon;
+}
+
+.Main-price-table {
+  border: goldenrod 1px solid;
+}
+
+.Sale-price-table {
+  border: Maroon 1px solid;
+}
+
+.inner-price-table {
+  padding: 10px;
+}
+
+.reg-price {
+  font-size: 1.2rem;
 }
 
 .desc {

@@ -113,10 +113,12 @@ export default {
       promotion.forEach((proPrice) => {
         items.forEach((item) => {
           if (proPrice["No."] === item.name) {
-            item.sale = proPrice[" Sales Price "];
-            item.disc = proPrice["Disc."];
+            item.disc = "10%";
+            item.sale = (
+              Number(proPrice["Retail Price"].replace(",", "")) * 0.9
+            ).toLocaleString("en-US");
             item.isOnPromotion = true;
-            item.proName = "F&F";
+            item.proName = "September Savings";
             item.proCat = "Main";
           }
         });
