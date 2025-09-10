@@ -190,6 +190,10 @@ export default {
       this.cr = now.pop();
       this.display = !this.display;
     },
+    handleSubmit(e) {
+      e.preventDefault();
+      console.log("called");
+    },
   },
 };
 </script>
@@ -211,6 +215,7 @@ export default {
             placeholder="ป้อนรหัสสินค้า"
             aria-label="Search"
             v-model="searchValue"
+            @keyup.enter="(e) => handleSubmit(e)"
           />
           <button
             v-if="!display"
