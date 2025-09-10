@@ -6,20 +6,23 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "generate-pwa-assets": "pwa-assets-generator"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
-    "bootstrap-vue": "^2.23.1",
+    "bootstrap-vue": "^2.21.2",
     "exceljs": "^4.4.0",
     "vue": "^3.4.37",
     "vue-router": "^4.4.3",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
+    "@vite-pwa/assets-generator": "^1.0.1",
     "@vitejs/plugin-vue": "^5.1.2",
-    "vite": "^5.4.1"
+    "vite": "^5.4.1",
+    "vite-plugin-pwa": "^1.0.3"
   }
 }
