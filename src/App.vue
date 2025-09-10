@@ -192,6 +192,7 @@ export default {
     },
     handleSubmit(e) {
       e.preventDefault();
+      this.$refs.search.blur();
       console.log("called");
     },
   },
@@ -212,6 +213,7 @@ export default {
             v-if="display"
             class="form-control me-2"
             type="search"
+            ref="search"
             placeholder="ป้อนรหัสสินค้า"
             aria-label="Search"
             v-model="searchValue"
