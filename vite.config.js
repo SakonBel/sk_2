@@ -13,6 +13,7 @@ export default defineConfig({
         name: "Skechers Korat",
         short_name: "SKK",
         theme_color: "#ffffff",
+        display: "standalone",
         icons: [
           {
             src: "src/assets/pwa-64x64.png",
