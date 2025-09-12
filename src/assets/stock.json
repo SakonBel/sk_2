@@ -6381,7 +6381,7 @@
     "Variant": "7",
     "Description": "125332-NVHP_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125332-NVHP",
@@ -7753,7 +7753,7 @@
     "Variant": "7",
     "Description": "129200-GYMT_MAX RUN",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129200-GYMT",
@@ -7835,13 +7835,6 @@
   {
     "Item No.": "129200-WMLT",
     "Variant": "6",
-    "Description": "129200-WMLT_MAX RUN",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "129200-WMLT",
-    "Variant": "6.5",
     "Description": "129200-WMLT_MAX RUN",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -8509,7 +8502,7 @@
     "Variant": "9",
     "Description": "129525-BKLV_GO RUN TRAIL AI2.0",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "129525-BKLV",
@@ -12506,7 +12499,7 @@
     "Variant": "8",
     "Description": "150465-BLK_ULTRA FLEX 3.0",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "150465-BLK",
@@ -14498,13 +14491,6 @@
   },
   {
     "Item No.": "183215-WBK",
-    "Variant": "10.5",
-    "Description": "183215-WBK_SKECHERS SHADOW",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "183215-WBK",
     "Variant": "11",
     "Description": "183215-WBK_SKECHERS SHADOW",
     "UOM": "PAIR",
@@ -14578,7 +14564,7 @@
     "Variant": "10",
     "Description": "183216-SIL_SKECHERS SHADOW",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "183216-SIL",
@@ -15496,13 +15482,6 @@
     "Description": "205169-DKBR_CASWELL",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "205169-DKBR",
-    "Variant": "10.5",
-    "Description": "205169-DKBR_CASWELL",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "205169-DKBR",
@@ -18894,13 +18873,6 @@
   },
   {
     "Item No.": "220421-WMLT",
-    "Variant": "8.5",
-    "Description": "220421-WMLT_MAX CUSH GLIDE-STE",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "220421-WMLT",
     "Variant": "9",
     "Description": "220421-WMLT_MAX CUSH GLIDE-STE",
     "UOM": "PAIR",
@@ -19156,7 +19128,7 @@
     "Variant": "10",
     "Description": "220529-GYNV_MAX CUSH PRE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "220529-GYNV",
@@ -26877,7 +26849,7 @@
     "Variant": "13",
     "Description": "303979L-LAV_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "303979L-LAV",
@@ -27732,13 +27704,6 @@
     "Description": "400151L-BBLM_LIGHT STORM 3",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "400151L-BBLM",
-    "Variant": "12",
-    "Description": "400151L-BBLM_LIGHT STORM 3",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "400151L-BBLM",
@@ -31889,7 +31854,7 @@
     "Variant": "S",
     "Description": "L225W068-05UA_NO SHOW SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "17"
+    "Net Inventory": "16"
   },
   {
     "Item No.": "L225W073-05NE",
@@ -34010,7 +33975,7 @@
     "Variant": "9-11",
     "Description": "S113836-330_NO SHOW SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "6"
+    "Net Inventory": "5"
   },
   {
     "Item No.": "S113836-530",
@@ -38434,7 +38399,7 @@
     "Variant": "0",
     "Description": "SP125U263-00GK_ANKLE SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP125U263-02L2",
@@ -39862,7 +39827,7 @@
     "Variant": "0",
     "Description": "SP324U979-02L2_LOW CUT SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SP324U979-MLGR",
@@ -41689,7 +41654,7 @@
     "Variant": "0",
     "Description": "SP424U718-RBY1_WAIST POUCH",
     "UOM": "PCS",
-    "Net Inventory": "5"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SP424U719-GRN1",
@@ -42764,176 +42729,162 @@
   },
   {
     "Item No.": "232948-BBK",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "232948-BBK",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "232948-BBK",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "232948-BBK",
-    "Variant": "PAIR",
-    "Description": "-",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "232948-BBK",
-    "Variant": "PAIR",
-    "Description": "-",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "232948-BBK",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "232948-GYOR",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "232948-GYOR",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "232948-GYOR",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "232948-GYOR",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "232948-GYOR",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "232948-GYOR",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "232948-GYOR",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "233151-GYMT",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "233151-GYMT",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "233151-GYMT",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "233151-GYMT",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "233151-GYMT",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "233151-GYMT",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "233151-SLNV",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "233151-SLNV",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "233151-SLNV",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "233151-SLNV",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "233151-SLNV",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "233151-SLNV",
-    "Variant": "PAIR",
-    "Description": "-",
+    "Variant": "-",
+    "Description": "",
     "UOM": "",
     "Net Inventory": ""
   }
