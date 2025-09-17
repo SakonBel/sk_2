@@ -2111,7 +2111,7 @@
     "Variant": "8",
     "Description": "111380-TAN_ARCH FIT FOOTSTEPS",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "111380-TAN",
@@ -2747,13 +2747,6 @@
     "Item No.": "111678-BBK",
     "Variant": "9",
     "Description": "111678-BBK_FOAMIES TAI",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "111678-BLSH",
-    "Variant": "6",
-    "Description": "111678-BLSH_FOAMIES TAI",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
@@ -6346,7 +6339,7 @@
     "Variant": "9",
     "Description": "125332-BKMV_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125332-NVHP",
@@ -13350,6 +13343,20 @@
   },
   {
     "Item No.": "158854-BBK",
+    "Variant": "10",
+    "Description": "158854-BBK_MODERN D'LUX",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "158854-BBK",
+    "Variant": "6",
+    "Description": "158854-BBK_MODERN D'LUX",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "158854-BBK",
     "Variant": "7",
     "Description": "158854-BBK_MODERN D'LUX",
     "UOM": "PAIR",
@@ -15050,13 +15057,6 @@
     "Net Inventory": "3"
   },
   {
-    "Item No.": "204321-RDBR",
-    "Variant": "8",
-    "Description": "204321-RDBR_RESPECTED",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "204809-BLK",
     "Variant": "10",
     "Description": "204809-BLK_RESPECTED",
@@ -16210,13 +16210,6 @@
     "Description": "216353-NVOR_GW MAXCUSH ARCHFIT",
     "UOM": "PAIR",
     "Net Inventory": "4"
-  },
-  {
-    "Item No.": "216353-NVOR",
-    "Variant": "10.5",
-    "Description": "216353-NVOR_GW MAXCUSH ARCHFIT",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "216353-NVOR",
@@ -18330,7 +18323,7 @@
     "Variant": "9",
     "Description": "216784-GYBK_GO WALK 8",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216784-GYBK",
@@ -26394,7 +26387,7 @@
     "Variant": "2",
     "Description": "303712L-SMLT_COSMIC GLOW",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "303712L-SMLT",
@@ -30650,7 +30643,7 @@
     "Variant": "M",
     "Description": "L125M026-054U_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "L125M026-054U",
@@ -35116,7 +35109,7 @@
     "Variant": "M",
     "Description": "SL125M231-054U_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SL125M231-054U",
@@ -42817,26 +42810,5 @@
     "Description": "Z000036-ZZZ-1-WHT_SNEAKER BALL",
     "UOM": "PCS",
     "Net Inventory": "10"
-  },
-  {
-    "Item No.": "233151-SLNV",
-    "Variant": "",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "233151-SLNV",
-    "Variant": "",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "233151-SLNV",
-    "Variant": "",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
   }
 ]
