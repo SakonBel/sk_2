@@ -1660,13 +1660,6 @@
   },
   {
     "Item No.": "111267-WHT",
-    "Variant": "8",
-    "Description": "111267-WHT_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "111267-WHT",
     "Variant": "9",
     "Description": "111267-WHT_MAX CUSHIONING FOAM",
     "UOM": "PAIR",
@@ -2730,13 +2723,6 @@
     "Net Inventory": "2"
   },
   {
-    "Item No.": "111673-WLV",
-    "Variant": "9",
-    "Description": "111673-WLV_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "111678-BBK",
     "Variant": "6",
     "Description": "111678-BBK_FOAMIES TAI",
@@ -3284,6 +3270,13 @@
   },
   {
     "Item No.": "125053-LVLP",
+    "Variant": "8.5",
+    "Description": "125053-LVLP_GO WALK MAX WALKER",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125053-LVLP",
     "Variant": "9",
     "Description": "125053-LVLP_GO WALK MAX WALKER",
     "UOM": "PAIR",
@@ -3347,6 +3340,13 @@
   },
   {
     "Item No.": "125063-BKLV",
+    "Variant": "6",
+    "Description": "125063-BKLV_GO WALK MAX WALKER",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125063-BKLV",
     "Variant": "6.5",
     "Description": "125063-BKLV_GO WALK MAX WALKER",
     "UOM": "PAIR",
@@ -3368,6 +3368,13 @@
   },
   {
     "Item No.": "125063-BKLV",
+    "Variant": "8",
+    "Description": "125063-BKLV_GO WALK MAX WALKER",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125063-BKLV",
     "Variant": "8.5",
     "Description": "125063-BKLV_GO WALK MAX WALKER",
     "UOM": "PAIR",
@@ -3379,6 +3386,13 @@
     "Description": "125063-BKLV_GO WALK MAX WALKER",
     "UOM": "PAIR",
     "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125063-BKLV",
+    "Variant": "9.5",
+    "Description": "125063-BKLV_GO WALK MAX WALKER",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "125063-WSL",
@@ -3596,6 +3610,13 @@
     "Description": "125067-NVTQ_GO WALK MAX WALKER",
     "UOM": "PAIR",
     "Net Inventory": "3"
+  },
+  {
+    "Item No.": "125067-NVTQ",
+    "Variant": "8.5",
+    "Description": "125067-NVTQ_GO WALK MAX WALKER",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "125067-NVTQ",
@@ -3956,6 +3977,13 @@
   },
   {
     "Item No.": "125204-BKW",
+    "Variant": "8.5",
+    "Description": "125204-BKW_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125204-BKW",
     "Variant": "9",
     "Description": "125204-BKW_GO WALK 7",
     "UOM": "PAIR",
@@ -3970,6 +3998,13 @@
   },
   {
     "Item No.": "125204-LTBL",
+    "Variant": "10",
+    "Description": "125204-LTBL_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125204-LTBL",
     "Variant": "11",
     "Description": "125204-LTBL_GO WALK 7",
     "UOM": "PAIR",
@@ -3988,6 +4023,13 @@
     "Description": "125204-LTBL_GO WALK 7",
     "UOM": "PAIR",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125204-LTBL",
+    "Variant": "7.5",
+    "Description": "125204-LTBL_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "125204-LTBL",
@@ -4453,6 +4495,13 @@
   },
   {
     "Item No.": "125215-WHT",
+    "Variant": "7",
+    "Description": "125215-WHT_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125215-WHT",
     "Variant": "7.5",
     "Description": "125215-WHT_GO WALK 7",
     "UOM": "PAIR",
@@ -4485,6 +4534,13 @@
     "Description": "125215-WHT_GO WALK 7",
     "UOM": "PAIR",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125219-BBK",
+    "Variant": "6",
+    "Description": "125219-BBK_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "125219-BBK",
@@ -4824,6 +4880,20 @@
   },
   {
     "Item No.": "125242-BKLV",
+    "Variant": "6",
+    "Description": "125242-BKLV_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125242-BKLV",
+    "Variant": "7",
+    "Description": "125242-BKLV_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125242-BKLV",
     "Variant": "7.5",
     "Description": "125242-BKLV_GO WALK 7",
     "UOM": "PAIR",
@@ -4873,6 +4943,20 @@
   },
   {
     "Item No.": "125242-NVAQ",
+    "Variant": "7",
+    "Description": "125242-NVAQ_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125242-NVAQ",
+    "Variant": "8",
+    "Description": "125242-NVAQ_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125242-NVAQ",
     "Variant": "9",
     "Description": "125242-NVAQ_GO WALK 7",
     "UOM": "PAIR",
@@ -4884,6 +4968,13 @@
     "Description": "125242-TPE_GO WALK 7",
     "UOM": "PAIR",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125242-TPE",
+    "Variant": "6",
+    "Description": "125242-TPE_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "125242-TPE",
@@ -4975,6 +5066,13 @@
     "Description": "125242-WHT_GO WALK 7",
     "UOM": "PAIR",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125242-WHT",
+    "Variant": "6",
+    "Description": "125242-WHT_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "125242-WHT",
@@ -5090,6 +5188,13 @@
   },
   {
     "Item No.": "125251-BKPR",
+    "Variant": "6",
+    "Description": "125251-BKPR_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125251-BKPR",
     "Variant": "6.5",
     "Description": "125251-BKPR_GO WALK 7",
     "UOM": "PAIR",
@@ -5304,6 +5409,13 @@
     "Description": "125266-BKW_GO WALK 7",
     "UOM": "PAIR",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125266-BKW",
+    "Variant": "7.5",
+    "Description": "125266-BKW_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "125266-BKW",
@@ -5524,6 +5636,13 @@
   },
   {
     "Item No.": "125310-ROS",
+    "Variant": "6",
+    "Description": "125310-ROS_GO WALK ARCH FIT 2.",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125310-ROS",
     "Variant": "7",
     "Description": "125310-ROS_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
@@ -5815,6 +5934,27 @@
     "Description": "125315-NVW_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125315-NVW",
+    "Variant": "6.5",
+    "Description": "125315-NVW_GO WALK ARCH FIT 2.",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125315-NVW",
+    "Variant": "7",
+    "Description": "125315-NVW_GO WALK ARCH FIT 2.",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "125315-NVW",
+    "Variant": "8",
+    "Description": "125315-NVW_GO WALK ARCH FIT 2.",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "125315-NVW",
@@ -6249,6 +6389,13 @@
     "Description": "125320-NTPR_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125320-NTPR",
+    "Variant": "7",
+    "Description": "125320-NTPR_GO WALK ARCH FIT 2",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "125320-NTPR",
@@ -7799,6 +7946,13 @@
   },
   {
     "Item No.": "129200-WMLT",
+    "Variant": "6.5",
+    "Description": "129200-WMLT_MAX RUN",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "129200-WMLT",
     "Variant": "7",
     "Description": "129200-WMLT_MAX RUN",
     "UOM": "PAIR",
@@ -7865,7 +8019,7 @@
     "Variant": "9",
     "Description": "129202-BKW_MAX RUN",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129202-GRY",
@@ -8968,6 +9122,13 @@
   },
   {
     "Item No.": "129611-NTPK",
+    "Variant": "6",
+    "Description": "129611-NTPK_MAX CUSH ELITE 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "129611-NTPK",
     "Variant": "6.5",
     "Description": "129611-NTPK_MAX CUSH ELITE 2.0",
     "UOM": "PAIR",
@@ -9067,13 +9228,6 @@
   {
     "Item No.": "129611-WBK",
     "Variant": "6.5",
-    "Description": "129611-WBK_MAX CUSH ELITE 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "129611-WBK",
-    "Variant": "7",
     "Description": "129611-WBK_MAX CUSH ELITE 2.0",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -15051,13 +15205,6 @@
   },
   {
     "Item No.": "204809-BLK",
-    "Variant": "7",
-    "Description": "204809-BLK_RESPECTED",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "204809-BLK",
     "Variant": "8",
     "Description": "204809-BLK_RESPECTED",
     "UOM": "PAIR",
@@ -16640,6 +16787,13 @@
   },
   {
     "Item No.": "216593-BKW",
+    "Variant": "10.5",
+    "Description": "216593-BKW_GO WALK MAX WALKER",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "216593-BKW",
     "Variant": "11",
     "Description": "216593-BKW_GO WALK MAX WALKER",
     "UOM": "PAIR",
@@ -16679,6 +16833,13 @@
     "Description": "216593-BKW_GO WALK MAX WALKER",
     "UOM": "PAIR",
     "Net Inventory": "4"
+  },
+  {
+    "Item No.": "216593-BKW",
+    "Variant": "9.5",
+    "Description": "216593-BKW_GO WALK MAX WALKER",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "216593-NVY",
@@ -16749,6 +16910,13 @@
     "Description": "216593-TPE_GO WALK MAX WALKER",
     "UOM": "PAIR",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "216593-TPE",
+    "Variant": "12",
+    "Description": "216593-TPE_GO WALK MAX WALKER",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "216593-TPE",
@@ -16896,6 +17064,13 @@
     "Description": "216601-BKW_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "216601-BKW",
+    "Variant": "9",
+    "Description": "216601-BKW_GO WALK ARCH FIT 2.",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "216601-BKW",
@@ -17053,6 +17228,13 @@
   },
   {
     "Item No.": "216641-BBK",
+    "Variant": "9",
+    "Description": "216641-BBK_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "216641-BBK",
     "Variant": "9.5",
     "Description": "216641-BBK_GO WALK 7",
     "UOM": "PAIR",
@@ -17235,6 +17417,13 @@
   },
   {
     "Item No.": "216648-BBK",
+    "Variant": "9",
+    "Description": "216648-BBK_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "216648-BBK",
     "Variant": "9.5",
     "Description": "216648-BBK_GO WALK 7",
     "UOM": "PAIR",
@@ -17360,6 +17549,13 @@
     "Net Inventory": "3"
   },
   {
+    "Item No.": "216648WW-BKW",
+    "Variant": "9.5",
+    "Description": "216648WW-BKW_GO WALK 7",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
+  },
+  {
     "Item No.": "216648WW-NVRD",
     "Variant": "10",
     "Description": "216648WW-NVRD_GO WALK 7",
@@ -18030,6 +18226,13 @@
     "Description": "216783-BKW_GO WALK 8",
     "UOM": "PAIR",
     "Net Inventory": "3"
+  },
+  {
+    "Item No.": "216783-BKW",
+    "Variant": "8.5",
+    "Description": "216783-BKW_GO WALK 8",
+    "UOM": "PAIR",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "216783-BKW",
@@ -33303,7 +33506,7 @@
     "Variant": "0",
     "Description": "P324U019-051G_TOTE BAG",
     "UOM": "PCS",
-    "Net Inventory": "15"
+    "Net Inventory": "14"
   },
   {
     "Item No.": "P324U021-00MM",
@@ -33387,7 +33590,7 @@
     "Variant": "9-11",
     "Description": "S101720H-105_NO SHOW SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "S101720H-421",
@@ -35166,6 +35369,13 @@
     "Description": "SL225M122-002Z_SHORTS",
     "UOM": "PCS",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL225M122-002Z",
+    "Variant": "XL",
+    "Description": "SL225M122-002Z_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "SL225M122-00Z8",
@@ -38203,7 +38413,7 @@
     "Variant": "L",
     "Description": "SP125W166-04QJ_SPORTS BRA",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP125W166-04QJ",
@@ -38259,7 +38469,7 @@
     "Variant": "M",
     "Description": "SP125W167-04QJ_TIGHTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP125W167-04QJ",
@@ -38346,6 +38556,20 @@
     "Net Inventory": "2"
   },
   {
+    "Item No.": "SP125W171-0018",
+    "Variant": "S",
+    "Description": "SP125W171-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SP125W171-0018",
+    "Variant": "XL",
+    "Description": "SP125W171-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
     "Item No.": "SP125W171-011G",
     "Variant": "L",
     "Description": "SP125W171-011G_SHORT SLEEVE TE",
@@ -38442,6 +38666,13 @@
     "Description": "SP125W174-0018_SHORT SLEEVE TE",
     "UOM": "PCS",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SP125W174-0018",
+    "Variant": "XL",
+    "Description": "SP125W174-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "-"
   },
   {
     "Item No.": "SP125W174-0024",
@@ -38952,7 +39183,7 @@
     "Variant": "S",
     "Description": "SP225W186-036J_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP225W186-036J",
@@ -39982,13 +40213,6 @@
     "Description": "SP325W292-014F_SHORT SLEEVE TE",
     "UOM": "PCS",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "SP325W292-014F",
-    "Variant": "S",
-    "Description": "SP325W292-014F_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "SP325W292-014F",
@@ -41069,6 +41293,181 @@
     "Net Inventory": "-"
   },
   {
+    "Item No.": "SL225M018-0001",
+    "Variant": "L",
+    "Description": "SL225M018-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225M018-0001",
+    "Variant": "M",
+    "Description": "SL225M018-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225M018-0001",
+    "Variant": "XL",
+    "Description": "SL225M018-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225M018-0001",
+    "Variant": "XXL",
+    "Description": "SL225M018-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225M018-002Z",
+    "Variant": "L",
+    "Description": "SL225M018-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225M018-002Z",
+    "Variant": "M",
+    "Description": "SL225M018-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225M018-002Z",
+    "Variant": "XL",
+    "Description": "SL225M018-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225M018-002Z",
+    "Variant": "XXL",
+    "Description": "SL225M018-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225M122-00Z8",
+    "Variant": "XXL",
+    "Description": "SL225M122-00Z8_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W127-0001",
+    "Variant": "L",
+    "Description": "SL225W127-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W127-0001",
+    "Variant": "M",
+    "Description": "SL225W127-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W127-0001",
+    "Variant": "S",
+    "Description": "SL225W127-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W127-0001",
+    "Variant": "XL",
+    "Description": "SL225W127-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W127-002Z",
+    "Variant": "L",
+    "Description": "SL225W127-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W127-002Z",
+    "Variant": "M",
+    "Description": "SL225W127-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W127-002Z",
+    "Variant": "S",
+    "Description": "SL225W127-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W127-002Z",
+    "Variant": "XL",
+    "Description": "SL225W127-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W194-0001",
+    "Variant": "L",
+    "Description": "SL225W194-0001_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W194-0001",
+    "Variant": "M",
+    "Description": "SL225W194-0001_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W194-0001",
+    "Variant": "S",
+    "Description": "SL225W194-0001_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W194-0001",
+    "Variant": "XL",
+    "Description": "SL225W194-0001_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W194-002Z",
+    "Variant": "L",
+    "Description": "SL225W194-002Z_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W194-002Z",
+    "Variant": "M",
+    "Description": "SL225W194-002Z_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W194-002Z",
+    "Variant": "XL",
+    "Description": "SL225W194-002Z_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
+    "Item No.": "SL225W194-002Z",
+    "Variant": "XXL",
+    "Description": "SL225W194-002Z_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "-"
+  },
+  {
     "Item No.": "SL325M398-05LH",
     "Variant": "L",
     "Description": "SL325M398-05LH_SHORT SLEEVE TE",
@@ -41608,1058 +42007,610 @@
     "Net Inventory": "-"
   },
   {
-    "Item No.": "SL325W450-05F3",
-    "Variant": "SL325W450-05F3_DRESS",
-    "Description": "PCS",
-    "UOM": "-",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SL325W450-05F3",
-    "Variant": "SL325W450-05F3_DRESS",
-    "Description": "PCS",
-    "UOM": "-",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SL325W450-05F3",
-    "Variant": "SL325W450-05F3_DRESS",
-    "Description": "PCS",
-    "UOM": "-",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SL325W450-05F3",
-    "Variant": "SL325W450-05F3_DRESS",
-    "Description": "PCS",
-    "UOM": "-",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SL325W450-05F3",
-    "Variant": "SL325W450-05F3_DRESS",
-    "Description": "PCS",
-    "UOM": "-",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W300-0018",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W300-0018",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W300-00KW",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W300-00KW",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W300-00KW",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W300-00KW",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W301-0018",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W301-0018",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W301-0018",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W301-0018",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W301-00KW",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W301-00KW",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W301-00KW",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W301-00KW",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W327-0018",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W327-0018",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W327-0018",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP325W327-0018",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M587-BLU1",
-    "Variant": "3",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M587-BLU1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M587-DNB1",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M587-DNB1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M587-DNB1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M587-DNB1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M588-DNB1",
-    "Variant": "3",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M588-DNB1",
-    "Variant": "3",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M588-DNB1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M588-DNB1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M588-YL02",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M588-YL02",
-    "Variant": "3",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M588-YL02",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M588-YL02",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M589-DNB1",
-    "Variant": "3",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M589-DNB1",
-    "Variant": "3",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M589-DNB1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M589-DNB1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M590-BLU1",
-    "Variant": "3",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M590-BLU1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M590-BLU1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M590-BLU1",
-    "Variant": "3",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M590-DNB1",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M590-DNB1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M590-DNB1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M590-DNB1",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M591-00GK",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M591-00GK",
-    "Variant": "3",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M591-00GK",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M591-00GK",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M591-DNB1",
-    "Variant": "3",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M591-DNB1",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M591-DNB1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M591-YL02",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M591-YL02",
-    "Variant": "3",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M591-YL02",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M591-YL02",
-    "Variant": "1",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M592-BLU1",
-    "Variant": "3",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M592-BLU1",
-    "Variant": "3",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M592-BLU1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M592-BLU1",
-    "Variant": "2",
+    "Item No.": "SP424M592-DNB1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M592-DNB1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M592-DNB1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M592-DNB1",
-    "Variant": "2",
-    "Description": "",
-    "UOM": "",
-    "Net Inventory": ""
-  },
-  {
-    "Item No.": "SP424M592-DNB1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M593-BLU1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M593-BLU1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M593-BLU1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M593-BLU1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M593-DNB1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M593-DNB1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M593-DNB1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M593-DNB1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M594-DNB1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M594-DNB1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424M594-DNB1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424U716-GRN1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424U717-RBY1",
-    "Variant": "8",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424U718-RBY1",
-    "Variant": "4",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424U719-GRN1",
-    "Variant": "5",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424U720-RBY1",
-    "Variant": "5",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424U721-02L2",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424U722-GRN1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424U726-02L2",
-    "Variant": "9",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424U727-02L2",
-    "Variant": "4",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424U728-02L2",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W558-DCY1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W558-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W558-DCY1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W558-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W558-STL1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W558-STL1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W558-STL1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W558-STL1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W559-DCY1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W559-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W559-DCY1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W559-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W559-STL1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W559-STL1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W559-STL1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W559-STL1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W560-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W560-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W560-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W560-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W560-STL1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W560-STL1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W560-STL1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W560-STL1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W562-STL1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W562-STL1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W562-STL1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W562-STL1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W563-DCY1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W563-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W563-DCY1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W563-RDO1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W563-RDO1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W563-RDO1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W563-RDO1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W565-00GK",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W565-00GK",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W565-00GK",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W565-STL1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W565-STL1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W565-STL1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W566-00GK",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W566-00GK",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W566-00GK",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W566-00GK",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W566-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W566-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W566-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W566-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W567-DCY1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W567-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W567-DCY1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W567-DCY1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W567-STL1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W567-STL1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W567-STL1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W567-STL1",
-    "Variant": "1",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W568-STL1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W568-STL1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W568-STL1",
-    "Variant": "3",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "SP424W568-STL1",
-    "Variant": "2",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
   },
   {
     "Item No.": "Z000036-ZZZ-1-WHT",
-    "Variant": "10",
+    "Variant": "",
     "Description": "",
     "UOM": "",
     "Net Inventory": ""
