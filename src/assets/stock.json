@@ -176,13 +176,6 @@
   },
   {
     "Item No.": "100663-TPE",
-    "Variant": "6",
-    "Description": "100663-TPE_ACTIVE SEQUOIA",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "100663-TPE",
     "Variant": "7",
     "Description": "100663-TPE_ACTIVE SEQUOIA",
     "UOM": "PAIR",
@@ -2618,60 +2611,242 @@
     "Net Inventory": "2"
   },
   {
+    "Item No.": "111657-CRL",
+    "Variant": "10",
+    "Description": "111657-CRL_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111657-CRL",
+    "Variant": "6",
+    "Description": "111657-CRL_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111657-CRL",
+    "Variant": "7",
+    "Description": "111657-CRL_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "111657-CRL",
+    "Variant": "8",
+    "Description": "111657-CRL_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "111657-CRL",
+    "Variant": "9",
+    "Description": "111657-CRL_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "111657-WHT",
+    "Variant": "10",
+    "Description": "111657-WHT_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111657-WHT",
+    "Variant": "6",
+    "Description": "111657-WHT_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111657-WHT",
+    "Variant": "7",
+    "Description": "111657-WHT_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "111657-WHT",
+    "Variant": "8",
+    "Description": "111657-WHT_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "111657-WHT",
+    "Variant": "9",
+    "Description": "111657-WHT_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "111658-OFWT",
+    "Variant": "10",
+    "Description": "111658-OFWT_MAX CUSHIONING FOA",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111658-OFWT",
+    "Variant": "5",
+    "Description": "111658-OFWT_MAX CUSHIONING FOA",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111658-OFWT",
+    "Variant": "6",
+    "Description": "111658-OFWT_MAX CUSHIONING FOA",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111658-OFWT",
+    "Variant": "7",
+    "Description": "111658-OFWT_MAX CUSHIONING FOA",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "111658-OFWT",
+    "Variant": "8",
+    "Description": "111658-OFWT_MAX CUSHIONING FOA",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "111658-OFWT",
+    "Variant": "9",
+    "Description": "111658-OFWT_MAX CUSHIONING FOA",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111658-PCH",
+    "Variant": "10",
+    "Description": "111658-PCH_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111658-PCH",
+    "Variant": "5",
+    "Description": "111658-PCH_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111658-PCH",
+    "Variant": "6",
+    "Description": "111658-PCH_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111658-PCH",
+    "Variant": "7",
+    "Description": "111658-PCH_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "111658-PCH",
+    "Variant": "8",
+    "Description": "111658-PCH_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "111658-PCH",
+    "Variant": "9",
+    "Description": "111658-PCH_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111659-NTMT",
+    "Variant": "10",
+    "Description": "111659-NTMT_MAX CUSHIONING FOA",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111659-NTMT",
+    "Variant": "5",
+    "Description": "111659-NTMT_MAX CUSHIONING FOA",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
     "Item No.": "111659-NTMT",
     "Variant": "6",
     "Description": "111659-NTMT_MAX CUSHIONING FOA",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111659-NTMT",
     "Variant": "7",
     "Description": "111659-NTMT_MAX CUSHIONING FOA",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "111659-NTMT",
     "Variant": "8",
     "Description": "111659-NTMT_MAX CUSHIONING FOA",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "111659-NTMT",
     "Variant": "9",
     "Description": "111659-NTMT_MAX CUSHIONING FOA",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111659-WMLT",
+    "Variant": "10",
+    "Description": "111659-WMLT_MAX CUSHIONING FOA",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "111659-WMLT",
+    "Variant": "5",
+    "Description": "111659-WMLT_MAX CUSHIONING FOA",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111659-WMLT",
     "Variant": "6",
     "Description": "111659-WMLT_MAX CUSHIONING FOA",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111659-WMLT",
     "Variant": "7",
     "Description": "111659-WMLT_MAX CUSHIONING FOA",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "111659-WMLT",
     "Variant": "8",
     "Description": "111659-WMLT_MAX CUSHIONING FOA",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "111659-WMLT",
     "Variant": "9",
     "Description": "111659-WMLT_MAX CUSHIONING FOA",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "111671-BKW",
@@ -3427,7 +3602,7 @@
     "Variant": "7",
     "Description": "125053-LVLP_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125053-LVLP",
@@ -3448,7 +3623,7 @@
     "Variant": "8.5",
     "Description": "125053-LVLP_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125053-LVLP",
@@ -3518,7 +3693,7 @@
     "Variant": "6",
     "Description": "125063-BKLV_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125063-BKLV",
@@ -3546,7 +3721,7 @@
     "Variant": "8",
     "Description": "125063-BKLV_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125063-BKLV",
@@ -3567,7 +3742,7 @@
     "Variant": "9.5",
     "Description": "125063-BKLV_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125063-WSL",
@@ -3644,7 +3819,7 @@
     "Variant": "6",
     "Description": "125067-BKLV_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125067-BKLV",
@@ -3791,7 +3966,7 @@
     "Variant": "8.5",
     "Description": "125067-NVTQ_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125067-NVTQ",
@@ -4057,7 +4232,7 @@
     "Variant": "8",
     "Description": "125122-BKRG_GO WALK GLIDE-ST 2",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125122-BKRG",
@@ -4079,13 +4254,6 @@
     "Description": "125122-NTLP_GO WALK GLIDE-ST 2",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "125122-NTLP",
-    "Variant": "8",
-    "Description": "125122-NTLP_GO WALK GLIDE-ST 2",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
   },
   {
     "Item No.": "125122-NTLP",
@@ -4127,7 +4295,7 @@
     "Variant": "6.5",
     "Description": "125204-BKW_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125204-BKW",
@@ -4148,14 +4316,14 @@
     "Variant": "8",
     "Description": "125204-BKW_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125204-BKW",
     "Variant": "8.5",
     "Description": "125204-BKW_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125204-BKW",
@@ -4176,7 +4344,7 @@
     "Variant": "10",
     "Description": "125204-LTBL_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125204-LTBL",
@@ -4197,14 +4365,14 @@
     "Variant": "7",
     "Description": "125204-LTBL_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125204-LTBL",
     "Variant": "7.5",
     "Description": "125204-LTBL_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125204-LTBL",
@@ -4428,7 +4596,7 @@
     "Variant": "9",
     "Description": "125213-WHT_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125213-WHT",
@@ -4673,7 +4841,7 @@
     "Variant": "7",
     "Description": "125215-WHT_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125215-WHT",
@@ -4715,7 +4883,7 @@
     "Variant": "6",
     "Description": "125219-BBK_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125219-BBK",
@@ -4792,7 +4960,7 @@
     "Variant": "7",
     "Description": "125219-WHT_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125219-WHT",
@@ -4904,7 +5072,7 @@
     "Variant": "6",
     "Description": "125225-WHT_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125225-WHT",
@@ -4932,14 +5100,14 @@
     "Variant": "8",
     "Description": "125225-WHT_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125225-WHT",
     "Variant": "9",
     "Description": "125225-WHT_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125225-WHT",
@@ -5051,21 +5219,21 @@
     "Variant": "9",
     "Description": "125228-LTPK_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125242-BKLV",
     "Variant": "6",
     "Description": "125242-BKLV_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125242-BKLV",
     "Variant": "7",
     "Description": "125242-BKLV_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125242-BKLV",
@@ -5121,14 +5289,14 @@
     "Variant": "7",
     "Description": "125242-NVAQ_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125242-NVAQ",
     "Variant": "8",
     "Description": "125242-NVAQ_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125242-NVAQ",
@@ -5149,7 +5317,7 @@
     "Variant": "6",
     "Description": "125242-TPE_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125242-TPE",
@@ -5170,7 +5338,7 @@
     "Variant": "8",
     "Description": "125242-TPE_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125242-TPE",
@@ -5247,7 +5415,7 @@
     "Variant": "6",
     "Description": "125242-WHT_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125242-WHT",
@@ -5331,7 +5499,7 @@
     "Variant": "9",
     "Description": "125242W-TPE_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125242W-TPE",
@@ -5366,7 +5534,7 @@
     "Variant": "6",
     "Description": "125251-BKPR_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125251-BKPR",
@@ -5583,14 +5751,14 @@
     "Variant": "7",
     "Description": "125266-BKW_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125266-BKW",
     "Variant": "7.5",
     "Description": "125266-BKW_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125266-BKW",
@@ -5695,7 +5863,7 @@
     "Variant": "8",
     "Description": "125266-NVY_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125266-NVY",
@@ -5814,14 +5982,14 @@
     "Variant": "6",
     "Description": "125310-ROS_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125310-ROS",
     "Variant": "7",
     "Description": "125310-ROS_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125310-ROS",
@@ -5863,7 +6031,7 @@
     "Variant": "6",
     "Description": "125310-TPLV_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125310-TPLV",
@@ -5940,7 +6108,7 @@
     "Variant": "8",
     "Description": "125310-WHT_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125310-WHT",
@@ -6052,7 +6220,7 @@
     "Variant": "7",
     "Description": "125315-MVE_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125315-MVE",
@@ -6066,7 +6234,7 @@
     "Variant": "8",
     "Description": "125315-MVE_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125315-MVE",
@@ -6115,21 +6283,21 @@
     "Variant": "6.5",
     "Description": "125315-NVW_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125315-NVW",
     "Variant": "7",
     "Description": "125315-NVW_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125315-NVW",
     "Variant": "8",
     "Description": "125315-NVW_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125315-NVW",
@@ -6318,7 +6486,7 @@
     "Variant": "9",
     "Description": "125319-BBK_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125319-GYLV",
@@ -6360,7 +6528,7 @@
     "Variant": "8",
     "Description": "125319-GYLV_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125319-GYLV",
@@ -6409,14 +6577,14 @@
     "Variant": "7.5",
     "Description": "125319-NTLB_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125319-NTLB",
     "Variant": "8",
     "Description": "125319-NTLB_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125319-NTLB",
@@ -6570,7 +6738,7 @@
     "Variant": "7",
     "Description": "125320-NTPR_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125320-NTPR",
@@ -6584,7 +6752,7 @@
     "Variant": "8",
     "Description": "125320-NTPR_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125320-NTPR",
@@ -6808,14 +6976,14 @@
     "Variant": "8",
     "Description": "125582-WMNT_GW MAXCUSH ARCHFIT",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125582-WMNT",
     "Variant": "9",
     "Description": "125582-WMNT_GW MAXCUSH ARCHFIT",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125586-BBK",
@@ -6856,6 +7024,62 @@
     "Item No.": "125586-BBK",
     "Variant": "9",
     "Description": "125586-BBK_GW MAXCUSH ARCHFIT",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125586-TPGD",
+    "Variant": "10",
+    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125586-TPGD",
+    "Variant": "6",
+    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125586-TPGD",
+    "Variant": "6.5",
+    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125586-TPGD",
+    "Variant": "7",
+    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125586-TPGD",
+    "Variant": "7.5",
+    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125586-TPGD",
+    "Variant": "8",
+    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "125586-TPGD",
+    "Variant": "8.5",
+    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "125586-TPGD",
+    "Variant": "9",
+    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
     "UOM": "PAIR",
     "Net Inventory": "2"
   },
@@ -6990,7 +7214,7 @@
     "Variant": "7.5",
     "Description": "125880-TPE_GOWALK MAXCUSH HYPE",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125880-TPE",
@@ -7326,7 +7550,7 @@
     "Variant": "9",
     "Description": "125920-TPBL_GO WALK 8",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "125921-BKW",
@@ -7620,7 +7844,7 @@
     "Variant": "8",
     "Description": "125925-WBK_GO WALK 8",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "125925-WBK",
@@ -7900,7 +8124,7 @@
     "Variant": "7",
     "Description": "128947-NTPK_MAX CUSH ARCH FIT2",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "128947-NTPK",
@@ -8033,7 +8257,7 @@
     "Variant": "7",
     "Description": "129200-GYMT_MAX RUN",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "129200-GYMT",
@@ -8124,7 +8348,7 @@
     "Variant": "6.5",
     "Description": "129200-WMLT_MAX RUN",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129200-WMLT",
@@ -8132,13 +8356,6 @@
     "Description": "129200-WMLT_MAX RUN",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "129200-WMLT",
-    "Variant": "7.5",
-    "Description": "129200-WMLT_MAX RUN",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "129200-WMLT",
@@ -8208,7 +8425,7 @@
     "Variant": "7",
     "Description": "129202-GRY_MAX RUN",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "129202-GRY",
@@ -8446,18 +8663,11 @@
     "Variant": "7",
     "Description": "129400-NAT_MAX CUSH GLIDE-STEP",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "129400-NAT",
     "Variant": "7.5",
-    "Description": "129400-NAT_MAX CUSH GLIDE-STEP",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "129400-NAT",
-    "Variant": "8",
     "Description": "129400-NAT_MAX CUSH GLIDE-STEP",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -8586,7 +8796,7 @@
     "Variant": "7",
     "Description": "129403-WBK_MAX CUSH GLIDE-STEP",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129403-WBK",
@@ -9020,7 +9230,7 @@
     "Variant": "6",
     "Description": "129606-BKW_MAX CUSH ELITE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129606-BKW",
@@ -9300,7 +9510,7 @@
     "Variant": "6",
     "Description": "129611-NTPK_MAX CUSH ELITE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129611-NTPK",
@@ -9363,7 +9573,7 @@
     "Variant": "7",
     "Description": "129611W-BBK_MAX CUSH ELITE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "129611W-BBK",
@@ -9888,7 +10098,7 @@
     "Variant": "7.5",
     "Description": "129710-NTBL_MAX CUSH PRE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "129710-NTBL",
@@ -9937,7 +10147,7 @@
     "Variant": "8",
     "Description": "129710-WSL_MAX CUSH PRE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "129710-WSL",
@@ -10382,17 +10592,10 @@
   },
   {
     "Item No.": "140472-BBK",
-    "Variant": "6",
-    "Description": "140472-BBK_ARCH FIT HYPER SLID",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "140472-BBK",
     "Variant": "7",
     "Description": "140472-BBK_ARCH FIT HYPER SLID",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "140472-BBK",
@@ -10413,7 +10616,7 @@
     "Variant": "6",
     "Description": "140472-NAT_ARCH FIT HYPER SLID",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "140472-NAT",
@@ -10427,7 +10630,7 @@
     "Variant": "8",
     "Description": "140472-NAT_ARCH FIT HYPER SLID",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "140472-NAT",
@@ -10932,13 +11135,6 @@
     "Description": "140886-BLSH_GOWALKARCHFIT2.0 S",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "140886-NVY",
-    "Variant": "6",
-    "Description": "140886-NVY_GOWALKARCHFIT2.0 SA",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "140886-NVY",
@@ -12093,28 +12289,28 @@
     "Variant": "6",
     "Description": "150055-BKCC_ARCH FIT 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "150055-BKCC",
     "Variant": "7",
     "Description": "150055-BKCC_ARCH FIT 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "150055-BKCC",
     "Variant": "8",
     "Description": "150055-BKCC_ARCH FIT 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "150055-BKCC",
     "Variant": "9",
     "Description": "150055-BKCC_ARCH FIT 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "150055-BLNV",
@@ -12730,7 +12926,7 @@
     "Variant": "9",
     "Description": "150404-WNT_CONTOUR FOAM",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "150457-NAT",
@@ -13156,6 +13352,90 @@
     "Item No.": "150510-NTMT",
     "Variant": "9",
     "Description": "150510-NTMT_GLIDE-STEP ALTUS",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "150512-NTGY",
+    "Variant": "10",
+    "Description": "150512-NTGY_GLIDE-STEP ALTUS",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "150512-NTGY",
+    "Variant": "5",
+    "Description": "150512-NTGY_GLIDE-STEP ALTUS",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "150512-NTGY",
+    "Variant": "6",
+    "Description": "150512-NTGY_GLIDE-STEP ALTUS",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "150512-NTGY",
+    "Variant": "7",
+    "Description": "150512-NTGY_GLIDE-STEP ALTUS",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "150512-NTGY",
+    "Variant": "8",
+    "Description": "150512-NTGY_GLIDE-STEP ALTUS",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "150512-NTGY",
+    "Variant": "9",
+    "Description": "150512-NTGY_GLIDE-STEP ALTUS",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "150512-WMLT",
+    "Variant": "10",
+    "Description": "150512-WMLT_GLIDE-STEP ALTUS",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "150512-WMLT",
+    "Variant": "5",
+    "Description": "150512-WMLT_GLIDE-STEP ALTUS",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "150512-WMLT",
+    "Variant": "6",
+    "Description": "150512-WMLT_GLIDE-STEP ALTUS",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "150512-WMLT",
+    "Variant": "7",
+    "Description": "150512-WMLT_GLIDE-STEP ALTUS",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "150512-WMLT",
+    "Variant": "8",
+    "Description": "150512-WMLT_GLIDE-STEP ALTUS",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "150512-WMLT",
+    "Variant": "9",
+    "Description": "150512-WMLT_GLIDE-STEP ALTUS",
     "UOM": "PAIR",
     "Net Inventory": "2"
   },
@@ -13871,7 +14151,7 @@
     "Variant": "8",
     "Description": "158854-NAT_MODERN D'LUX",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "158854-NAT",
@@ -13941,7 +14221,7 @@
     "Variant": "7",
     "Description": "158987-LAV_ARYA",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "158987-LAV",
@@ -14234,6 +14514,41 @@
     "Item No.": "159078-BBK",
     "Variant": "9",
     "Description": "159078-BBK_SEAGER",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "159087-BBK",
+    "Variant": "10",
+    "Description": "159087-BBK_ARCH FIT LAGUNA",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "159087-BBK",
+    "Variant": "6",
+    "Description": "159087-BBK_ARCH FIT LAGUNA",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "159087-BBK",
+    "Variant": "7",
+    "Description": "159087-BBK_ARCH FIT LAGUNA",
+    "UOM": "PAIR",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "159087-BBK",
+    "Variant": "8",
+    "Description": "159087-BBK_ARCH FIT LAGUNA",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "159087-BBK",
+    "Variant": "9",
+    "Description": "159087-BBK_ARCH FIT LAGUNA",
     "UOM": "PAIR",
     "Net Inventory": "2"
   },
@@ -14732,7 +15047,7 @@
     "Variant": "10",
     "Description": "180172-WHT_D'LITE TR",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "180172-WHT",
@@ -15779,13 +16094,6 @@
   },
   {
     "Item No.": "205066-TPE",
-    "Variant": "10",
-    "Description": "205066-TPE_HASTING",
-    "UOM": "PAIR",
-    "Net Inventory": "2"
-  },
-  {
-    "Item No.": "205066-TPE",
     "Variant": "11",
     "Description": "205066-TPE_HASTING",
     "UOM": "PAIR",
@@ -16307,7 +16615,7 @@
     "Variant": "8",
     "Description": "205517-BBK_ARCH FIT GARZA",
     "UOM": "PAIR",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "205517-BBK",
@@ -16930,7 +17238,7 @@
     "Variant": "10",
     "Description": "216581-BKW_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216581-BKW",
@@ -16951,7 +17259,7 @@
     "Variant": "10",
     "Description": "216581-NVY_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216581-NVY",
@@ -16993,7 +17301,7 @@
     "Variant": "9",
     "Description": "216581-NVY_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216589-OFWT",
@@ -17042,14 +17350,14 @@
     "Variant": "9",
     "Description": "216589-OFWT_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216589-OFWT",
     "Variant": "9.5",
     "Description": "216589-OFWT_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216589-TPE",
@@ -17119,7 +17427,7 @@
     "Variant": "10.5",
     "Description": "216593-BKW_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216593-BKW",
@@ -17168,7 +17476,7 @@
     "Variant": "9.5",
     "Description": "216593-BKW_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216593-NVY",
@@ -17245,7 +17553,7 @@
     "Variant": "12",
     "Description": "216593-TPE_GO WALK MAX WALKER",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216593-TPE",
@@ -17392,14 +17700,14 @@
     "Variant": "8",
     "Description": "216601-BKW_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216601-BKW",
     "Variant": "9",
     "Description": "216601-BKW_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216601-BKW",
@@ -17546,7 +17854,7 @@
     "Variant": "8",
     "Description": "216641-BBK_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216641-BBK",
@@ -17560,7 +17868,7 @@
     "Variant": "9",
     "Description": "216641-BBK_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216641-BBK",
@@ -17749,7 +18057,7 @@
     "Variant": "9",
     "Description": "216648-BBK_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216648-BBK",
@@ -17791,7 +18099,7 @@
     "Variant": "10",
     "Description": "216648-WHT_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216648-WHT",
@@ -17882,7 +18190,7 @@
     "Variant": "9.5",
     "Description": "216648WW-BKW_GO WALK 7",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216648WW-NVRD",
@@ -17998,13 +18306,6 @@
   },
   {
     "Item No.": "216653-BBK",
-    "Variant": "10.5",
-    "Description": "216653-BBK_GO WALK ARCH FIT 2.",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216653-BBK",
     "Variant": "11",
     "Description": "216653-BBK_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
@@ -18036,7 +18337,7 @@
     "Variant": "9",
     "Description": "216653-BBK_GO WALK ARCH FIT 2.",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216653-GYRD",
@@ -18044,13 +18345,6 @@
     "Description": "216653-GYRD_GO WALK ARCH FIT 2",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "216653-GYRD",
-    "Variant": "10.5",
-    "Description": "216653-GYRD_GO WALK ARCH FIT 2",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "216653-GYRD",
@@ -18561,7 +18855,7 @@
     "Variant": "8.5",
     "Description": "216783-BKW_GO WALK 8",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "216783-BKW",
@@ -18635,13 +18929,6 @@
   },
   {
     "Item No.": "216783-TPE",
-    "Variant": "11",
-    "Description": "216783-TPE_GO WALK 8",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "216783-TPE",
     "Variant": "8",
     "Description": "216783-TPE_GO WALK 8",
     "UOM": "PAIR",
@@ -18687,7 +18974,7 @@
     "Variant": "8",
     "Description": "216783-WBK_GO WALK 8",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216783-WBK",
@@ -18701,7 +18988,7 @@
     "Variant": "9",
     "Description": "216783-WBK_GO WALK 8",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216783-WBK",
@@ -18715,7 +19002,7 @@
     "Variant": "10",
     "Description": "216784-BBK_GO WALK 8",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216784-BBK",
@@ -18743,7 +19030,7 @@
     "Variant": "8.5",
     "Description": "216784-BBK_GO WALK 8",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216784-BBK",
@@ -18799,7 +19086,7 @@
     "Variant": "9",
     "Description": "216784-GYBK_GO WALK 8",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "216784-GYBK",
@@ -18883,14 +19170,14 @@
     "Variant": "8",
     "Description": "217000-BBK_GW STABILITY 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "217000-BBK",
     "Variant": "9",
     "Description": "217000-BBK_GW STABILITY 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "217000-NVY",
@@ -18981,7 +19268,7 @@
     "Variant": "10",
     "Description": "217016-BKW_GO WALK GLIDE-STEP2",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "217016-BKW",
@@ -18995,14 +19282,14 @@
     "Variant": "11",
     "Description": "217016-BKW_GO WALK GLIDE-STEP2",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "217016-BKW",
     "Variant": "12",
     "Description": "217016-BKW_GO WALK GLIDE-STEP2",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "217016-BKW",
@@ -19121,7 +19408,56 @@
     "Variant": "9",
     "Description": "217129-GYBL_GOWALK MAXCUSH HYP",
     "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "217129-WHT",
+    "Variant": "10",
+    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "217129-WHT",
+    "Variant": "10.5",
+    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "217129-WHT",
+    "Variant": "11",
+    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "217129-WHT",
+    "Variant": "7.5",
+    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "217129-WHT",
+    "Variant": "8",
+    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "217129-WHT",
+    "Variant": "8.5",
+    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "217129-WHT",
+    "Variant": "9",
+    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
   },
   {
     "Item No.": "220420-BKW",
@@ -19219,7 +19555,7 @@
     "Variant": "10",
     "Description": "220421-TPBK_MAX CUSH GLIDE-STE",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "220421-TPBK",
@@ -19233,7 +19569,7 @@
     "Variant": "11",
     "Description": "220421-TPBK_MAX CUSH GLIDE-STE",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "220421-TPBK",
@@ -19275,7 +19611,7 @@
     "Variant": "10",
     "Description": "220421-WMLT_MAX CUSH GLIDE-STE",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "220421-WMLT",
@@ -19289,7 +19625,7 @@
     "Variant": "12",
     "Description": "220421-WMLT_MAX CUSH GLIDE-STE",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "220421-WMLT",
@@ -19673,6 +20009,118 @@
     "Item No.": "220529-WBK",
     "Variant": "9.5",
     "Description": "220529-WBK_MAX CUSH PRE 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220553-BLK",
+    "Variant": "10",
+    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "220553-BLK",
+    "Variant": "10.5",
+    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220553-BLK",
+    "Variant": "11",
+    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220553-BLK",
+    "Variant": "7.5",
+    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220553-BLK",
+    "Variant": "8",
+    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220553-BLK",
+    "Variant": "8.5",
+    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220553-BLK",
+    "Variant": "9",
+    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "220553-BLK",
+    "Variant": "9.5",
+    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220553-NAT",
+    "Variant": "10",
+    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "220553-NAT",
+    "Variant": "10.5",
+    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220553-NAT",
+    "Variant": "11",
+    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220553-NAT",
+    "Variant": "7.5",
+    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220553-NAT",
+    "Variant": "8",
+    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220553-NAT",
+    "Variant": "8.5",
+    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "220553-NAT",
+    "Variant": "9",
+    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "220553-NAT",
+    "Variant": "9.5",
+    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
     "UOM": "PAIR",
     "Net Inventory": "1"
   },
@@ -20230,13 +20678,6 @@
     "Net Inventory": "4"
   },
   {
-    "Item No.": "220754-TNBK",
-    "Variant": "9.5",
-    "Description": "220754-TNBK_GO RUN TRAIL ALTI2",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
     "Item No.": "220839-BBK",
     "Variant": "8",
     "Description": "220839-BBK_MAX CUSH PRE 2.0",
@@ -20346,7 +20787,7 @@
     "Variant": "7.5",
     "Description": "220839WW-TPE_MAX CUSH PRE 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "220839WW-TPE",
@@ -20745,7 +21186,7 @@
     "Variant": "9",
     "Description": "221002-WHT_MAX RUN",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "221002-WHT",
@@ -20759,7 +21200,7 @@
     "Variant": "10",
     "Description": "229217-BKCC_MAX CUSH PRE 2.0 S",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "229217-BKCC",
@@ -21473,7 +21914,7 @@
     "Variant": "8",
     "Description": "229296-NVY_GO WALK 7 SANDAL",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "229296-NVY",
@@ -21865,7 +22306,7 @@
     "Variant": "8",
     "Description": "229359-CCRD_GO WALK 7 SANDAL",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "229359-CCRD",
@@ -22652,6 +23093,104 @@
     "Net Inventory": "3"
   },
   {
+    "Item No.": "232712WW-BLK",
+    "Variant": "10",
+    "Description": "232712WW-BLK_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "232712WW-BLK",
+    "Variant": "10.5",
+    "Description": "232712WW-BLK_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232712WW-BLK",
+    "Variant": "11",
+    "Description": "232712WW-BLK_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232712WW-BLK",
+    "Variant": "12",
+    "Description": "232712WW-BLK_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232712WW-BLK",
+    "Variant": "7.5",
+    "Description": "232712WW-BLK_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232712WW-BLK",
+    "Variant": "8",
+    "Description": "232712WW-BLK_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "232712WW-BLK",
+    "Variant": "9",
+    "Description": "232712WW-BLK_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "232712WW-CCYL",
+    "Variant": "10",
+    "Description": "232712WW-CCYL_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "232712WW-CCYL",
+    "Variant": "10.5",
+    "Description": "232712WW-CCYL_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232712WW-CCYL",
+    "Variant": "11",
+    "Description": "232712WW-CCYL_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232712WW-CCYL",
+    "Variant": "12",
+    "Description": "232712WW-CCYL_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232712WW-CCYL",
+    "Variant": "7.5",
+    "Description": "232712WW-CCYL_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "232712WW-CCYL",
+    "Variant": "8",
+    "Description": "232712WW-CCYL_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "232712WW-CCYL",
+    "Variant": "9",
+    "Description": "232712WW-CCYL_ARCH FIT 2.0",
+    "UOM": "PAIR",
+    "Net Inventory": "2"
+  },
+  {
     "Item No.": "232742-CCGY",
     "Variant": "10",
     "Description": "232742-CCGY-SKECH MONSTER EVO",
@@ -24217,14 +24756,21 @@
     "Variant": "11",
     "Description": "243277-BBK_MAX CUSHIONING FOAM",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "243277-BBK",
+    "Variant": "7",
+    "Description": "243277-BBK_MAX CUSHIONING FOAM",
+    "UOM": "PAIR",
+    "Net Inventory": "1"
   },
   {
     "Item No.": "243277-BBK",
     "Variant": "8",
     "Description": "243277-BBK_MAX CUSHIONING FOAM",
     "UOM": "PAIR",
-    "Net Inventory": "-"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "243277-BBK",
@@ -24301,7 +24847,7 @@
     "Variant": "11",
     "Description": "243277-OLV_MAX CUSHIONING FOAM",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "243277-OLV",
@@ -24595,7 +25141,7 @@
     "Variant": "8",
     "Description": "243330-BBK_ARCH FIT HORIZON",
     "UOM": "PAIR",
-    "Net Inventory": "3"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "243330-BBK",
@@ -24812,7 +25358,7 @@
     "Variant": "10",
     "Description": "243336-BBK_ARCH FIT HORIZON",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "243336-BBK",
@@ -25120,7 +25666,7 @@
     "Variant": "10",
     "Description": "246087-BLK_GORUNSUPERSONIC MA/",
     "UOM": "PAIR",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "246087-BLK",
@@ -25530,13 +26076,6 @@
   },
   {
     "Item No.": "302296L-SMLT",
-    "Variant": "11",
-    "Description": "302296L-SMLT_UNICORN DREAMS",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "302296L-SMLT",
     "Variant": "12",
     "Description": "302296L-SMLT_UNICORN DREAMS",
     "UOM": "PAIR",
@@ -25803,13 +26342,6 @@
   },
   {
     "Item No.": "302697L-HPMT",
-    "Variant": "11",
-    "Description": "302697L-HPMT_ETERNAL HEART LIG",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "302697L-HPMT",
     "Variant": "12",
     "Description": "302697L-HPMT_ETERNAL HEART LIG",
     "UOM": "PAIR",
@@ -25925,7 +26457,7 @@
     "Variant": "8",
     "Description": "302697N-HPMT_ETERNAL HEART LIG",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "302697N-HPMT",
@@ -26765,7 +27297,7 @@
     "Variant": "13",
     "Description": "303624L-BLMT_FLOWER FRIENDS",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "303624L-BLMT",
@@ -27655,13 +28187,6 @@
     "Description": "303961L-WLB_GO RUN CONSISTE 2.",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "303961L-WLB",
-    "Variant": "3",
-    "Description": "303961L-WLB_GO RUN CONSISTE 2.",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "303961L-WLB",
@@ -27806,13 +28331,6 @@
   {
     "Item No.": "308054L-PKMT",
     "Variant": "11",
-    "Description": "308054L-PKMT_GUZMAN STEPS",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
-  },
-  {
-    "Item No.": "308054L-PKMT",
-    "Variant": "12",
     "Description": "308054L-PKMT_GUZMAN STEPS",
     "UOM": "PAIR",
     "Net Inventory": "1"
@@ -28389,7 +28907,7 @@
     "Variant": "12",
     "Description": "400099L-BKRD_THERMO-FLASH 2.0",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "400099L-BKRD",
@@ -29117,7 +29635,7 @@
     "Variant": "1",
     "Description": "402161L-BKRD_MEGA-SPLASH 4K",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "402161L-BKRD",
@@ -30055,7 +30573,7 @@
     "Variant": "1",
     "Description": "405039L-SLNV_GO RUN CONSISTE 2",
     "UOM": "PAIR",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "405039L-SLNV",
@@ -30147,13 +30665,6 @@
     "Description": "405045L-LTBL_GO RUN CONSISTE 2",
     "UOM": "PAIR",
     "Net Inventory": "2"
-  },
-  {
-    "Item No.": "405045L-LTBL",
-    "Variant": "3",
-    "Description": "405045L-LTBL_GO RUN CONSISTE 2",
-    "UOM": "PAIR",
-    "Net Inventory": "1"
   },
   {
     "Item No.": "405045L-LTBL",
@@ -30825,7 +31336,7 @@
     "Variant": "M",
     "Description": "L125K056-058N_QUARTER SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "4"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "L125K057-058B",
@@ -30846,14 +31357,14 @@
     "Variant": "L",
     "Description": "L125M028-0018_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "L125M028-0018",
     "Variant": "M",
     "Description": "L125M028-0018_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "L125M028-0018",
@@ -30867,7 +31378,35 @@
     "Variant": "XL",
     "Description": "L125M028-0018_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "L125M028-00V8",
+    "Variant": "L",
+    "Description": "L125M028-00V8_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "L125M028-00V8",
+    "Variant": "M",
+    "Description": "L125M028-00V8_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "L125M028-00V8",
+    "Variant": "S",
+    "Description": "L125M028-00V8_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "L125M028-00V8",
+    "Variant": "XL",
+    "Description": "L125M028-00V8_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
   },
   {
     "Item No.": "L125M029-004F",
@@ -30902,35 +31441,35 @@
     "Variant": "M",
     "Description": "L125M029-026R_PANTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "L125M029-026R",
     "Variant": "S",
     "Description": "L125M029-026R_PANTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "L125M029-026R",
     "Variant": "XL",
     "Description": "L125M029-026R_PANTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "L125M029-026U",
     "Variant": "L",
     "Description": "L125M029-026U_PANTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "L125M029-026U",
     "Variant": "M",
     "Description": "L125M029-026U_PANTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "L125M029-026U",
@@ -31007,7 +31546,7 @@
     "Variant": "M",
     "Description": "L125U070-05U1_BASEBALL CAP",
     "UOM": "PCS",
-    "Net Inventory": "10"
+    "Net Inventory": "9"
   },
   {
     "Item No.": "L125U070-05U2",
@@ -31728,21 +32267,21 @@
     "Variant": "L",
     "Description": "L225M004-026U_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "L225M004-026U",
     "Variant": "M",
     "Description": "L225M004-026U_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "L225M004-026U",
     "Variant": "S",
     "Description": "L225M004-026U_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "L225M004-026U",
@@ -31938,7 +32477,7 @@
     "Variant": "S",
     "Description": "L225W179-05TT_CREW SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "12"
+    "Net Inventory": "11"
   },
   {
     "Item No.": "L323U043-005J",
@@ -33198,7 +33737,7 @@
     "Variant": "9-11",
     "Description": "S106144-678_NO SHOW SOCKS",
     "UOM": "PACK",
-    "Net Inventory": "10"
+    "Net Inventory": "9"
   },
   {
     "Item No.": "S106757H-460",
@@ -33352,7 +33891,7 @@
     "Variant": "0",
     "Description": "SK0021-ASTNEW_ATHLETICCLEANSER",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SK0027-AST",
@@ -33408,14 +33947,14 @@
     "Variant": "L",
     "Description": "SL125M003-0067_RAGLAN SLEEVE T",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125M003-0067",
     "Variant": "M",
     "Description": "SL125M003-0067_RAGLAN SLEEVE T",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125M003-0067",
@@ -33436,21 +33975,21 @@
     "Variant": "L",
     "Description": "SL125M003-054U_RAGLAN SLEEVE T",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125M003-054U",
     "Variant": "M",
     "Description": "SL125M003-054U_RAGLAN SLEEVE T",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125M003-054U",
     "Variant": "S",
     "Description": "SL125M003-054U_RAGLAN SLEEVE T",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SL125M003-054U",
@@ -33464,28 +34003,28 @@
     "Variant": "L",
     "Description": "SL125M004-0067_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SL125M004-0067",
     "Variant": "M",
     "Description": "SL125M004-0067_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125M004-0067",
     "Variant": "S",
     "Description": "SL125M004-0067_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "-"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SL125M004-0067",
     "Variant": "XL",
     "Description": "SL125M004-0067_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125M004-00AS",
@@ -33604,14 +34143,14 @@
     "Variant": "S",
     "Description": "SL125M008-04UX_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SL125M008-04UX",
     "Variant": "XL",
     "Description": "SL125M008-04UX_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SL125M011-04UX",
@@ -33625,21 +34164,21 @@
     "Variant": "M",
     "Description": "SL125M011-04UX_LONG PANTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125M011-04UX",
     "Variant": "S",
     "Description": "SL125M011-04UX_LONG PANTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125M011-04UX",
     "Variant": "XL",
     "Description": "SL125M011-04UX_LONG PANTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SL125U195-02L2",
@@ -34248,56 +34787,56 @@
     "Variant": "L",
     "Description": "SL125W015-00QF_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125W015-00QF",
     "Variant": "M",
     "Description": "SL125W015-00QF_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125W015-00QF",
     "Variant": "S",
     "Description": "SL125W015-00QF_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SL125W015-00QF",
     "Variant": "XL",
     "Description": "SL125W015-00QF_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125W015-0477",
     "Variant": "L",
     "Description": "SL125W015-0477_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125W015-0477",
     "Variant": "M",
     "Description": "SL125W015-0477_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125W015-0477",
     "Variant": "S",
     "Description": "SL125W015-0477_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125W015-0477",
     "Variant": "XL",
     "Description": "SL125W015-0477_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL125W016-00QF",
@@ -34409,7 +34948,63 @@
     "Variant": "XL",
     "Description": "SL125W021-04UQ_LONG PANTS",
     "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL225M018-0001",
+    "Variant": "L",
+    "Description": "SL225M018-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL225M018-0001",
+    "Variant": "M",
+    "Description": "SL225M018-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL225M018-0001",
+    "Variant": "XL",
+    "Description": "SL225M018-0001_SHIRT",
+    "UOM": "PCS",
     "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL225M018-0001",
+    "Variant": "XXL",
+    "Description": "SL225M018-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL225M018-002Z",
+    "Variant": "L",
+    "Description": "SL225M018-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL225M018-002Z",
+    "Variant": "M",
+    "Description": "SL225M018-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL225M018-002Z",
+    "Variant": "XL",
+    "Description": "SL225M018-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL225M018-002Z",
+    "Variant": "XXL",
+    "Description": "SL225M018-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SL225M111-002Z",
@@ -34584,53 +35179,60 @@
     "Variant": "L",
     "Description": "SL225M122-002Z_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SL225M122-002Z",
     "Variant": "M",
     "Description": "SL225M122-002Z_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SL225M122-002Z",
     "Variant": "S",
     "Description": "SL225M122-002Z_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SL225M122-002Z",
     "Variant": "XL",
     "Description": "SL225M122-002Z_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "-"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SL225M122-00Z8",
     "Variant": "L",
     "Description": "SL225M122-00Z8_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL225M122-00Z8",
     "Variant": "M",
     "Description": "SL225M122-00Z8_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL225M122-00Z8",
     "Variant": "S",
     "Description": "SL225M122-00Z8_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SL225M122-00Z8",
     "Variant": "XL",
+    "Description": "SL225M122-00Z8_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL225M122-00Z8",
+    "Variant": "XXL",
     "Description": "SL225M122-00Z8_SHORTS",
     "UOM": "PCS",
     "Net Inventory": "1"
@@ -34668,14 +35270,14 @@
     "Variant": "L",
     "Description": "SL225W124-002Z_POLO",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SL225W124-002Z",
     "Variant": "M",
     "Description": "SL225W124-002Z_POLO",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SL225W124-002Z",
@@ -34696,14 +35298,14 @@
     "Variant": "L",
     "Description": "SL225W124-00QF_POLO",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "5"
   },
   {
     "Item No.": "SL225W124-00QF",
     "Variant": "M",
     "Description": "SL225W124-00QF_POLO",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SL225W124-00QF",
@@ -34716,6 +35318,62 @@
     "Item No.": "SL225W124-00QF",
     "Variant": "XL",
     "Description": "SL225W124-00QF_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL225W127-0001",
+    "Variant": "L",
+    "Description": "SL225W127-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL225W127-0001",
+    "Variant": "M",
+    "Description": "SL225W127-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL225W127-0001",
+    "Variant": "S",
+    "Description": "SL225W127-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL225W127-0001",
+    "Variant": "XL",
+    "Description": "SL225W127-0001_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL225W127-002Z",
+    "Variant": "L",
+    "Description": "SL225W127-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL225W127-002Z",
+    "Variant": "M",
+    "Description": "SL225W127-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL225W127-002Z",
+    "Variant": "S",
+    "Description": "SL225W127-002Z_SHIRT",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL225W127-002Z",
+    "Variant": "XL",
+    "Description": "SL225W127-002Z_SHIRT",
     "UOM": "PCS",
     "Net Inventory": "2"
   },
@@ -34724,28 +35382,28 @@
     "Variant": "L",
     "Description": "SL225W128-002Z_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SL225W128-002Z",
     "Variant": "M",
     "Description": "SL225W128-002Z_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "3"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SL225W128-002Z",
     "Variant": "S",
     "Description": "SL225W128-002Z_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL225W128-002Z",
     "Variant": "XL",
     "Description": "SL225W128-002Z_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SL225W131-002Z",
@@ -34797,6 +35455,62 @@
     "Net Inventory": "1"
   },
   {
+    "Item No.": "SL225W194-0001",
+    "Variant": "L",
+    "Description": "SL225W194-0001_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL225W194-0001",
+    "Variant": "M",
+    "Description": "SL225W194-0001_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL225W194-0001",
+    "Variant": "S",
+    "Description": "SL225W194-0001_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL225W194-0001",
+    "Variant": "XL",
+    "Description": "SL225W194-0001_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL225W194-002Z",
+    "Variant": "L",
+    "Description": "SL225W194-002Z_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL225W194-002Z",
+    "Variant": "M",
+    "Description": "SL225W194-002Z_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL225W194-002Z",
+    "Variant": "XL",
+    "Description": "SL225W194-002Z_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL225W194-002Z",
+    "Variant": "XXL",
+    "Description": "SL225W194-002Z_SKIRT",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
     "Item No.": "SL325M375-00QF",
     "Variant": "L",
     "Description": "SL325M375-00QF_SHORT SLEEVE TE",
@@ -35329,6 +36043,237 @@
     "Net Inventory": "1"
   },
   {
+    "Item No.": "SL325M388-05LH",
+    "Variant": "L",
+    "Description": "SL325M388-05LH_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M388-05LH",
+    "Variant": "M",
+    "Description": "SL325M388-05LH_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M388-05LH",
+    "Variant": "S",
+    "Description": "SL325M388-05LH_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325M388-05LH",
+    "Variant": "XL",
+    "Description": "SL325M388-05LH_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M392-00QF",
+    "Variant": "L",
+    "Description": "SL325M392-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M392-00QF",
+    "Variant": "M",
+    "Description": "SL325M392-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M392-00QF",
+    "Variant": "S",
+    "Description": "SL325M392-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M392-00QF",
+    "Variant": "XL",
+    "Description": "SL325M392-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M392-04ZF",
+    "Variant": "L",
+    "Description": "SL325M392-04ZF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M392-04ZF",
+    "Variant": "M",
+    "Description": "SL325M392-04ZF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M392-04ZF",
+    "Variant": "S",
+    "Description": "SL325M392-04ZF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M392-04ZF",
+    "Variant": "XL",
+    "Description": "SL325M392-04ZF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M394-04ZF",
+    "Variant": "L",
+    "Description": "SL325M394-04ZF_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M394-04ZF",
+    "Variant": "M",
+    "Description": "SL325M394-04ZF_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M394-04ZF",
+    "Variant": "S",
+    "Description": "SL325M394-04ZF_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M394-04ZF",
+    "Variant": "XL",
+    "Description": "SL325M394-04ZF_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M394-NS01",
+    "Variant": "L",
+    "Description": "SL325M394-NS01_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M394-NS01",
+    "Variant": "M",
+    "Description": "SL325M394-NS01_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M394-NS01",
+    "Variant": "S",
+    "Description": "SL325M394-NS01_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M394-NS01",
+    "Variant": "XL",
+    "Description": "SL325M394-NS01_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M394-NS01",
+    "Variant": "XXL",
+    "Description": "SL325M394-NS01_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M398-05LH",
+    "Variant": "L",
+    "Description": "SL325M398-05LH_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M398-05LH",
+    "Variant": "M",
+    "Description": "SL325M398-05LH_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M398-05LH",
+    "Variant": "S",
+    "Description": "SL325M398-05LH_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325M398-05LH",
+    "Variant": "XL",
+    "Description": "SL325M398-05LH_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M399-00EG",
+    "Variant": "L",
+    "Description": "SL325M399-00EG_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M399-00EG",
+    "Variant": "M",
+    "Description": "SL325M399-00EG_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M399-00EG",
+    "Variant": "S",
+    "Description": "SL325M399-00EG_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M399-00EG",
+    "Variant": "XL",
+    "Description": "SL325M399-00EG_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325M399-05LH",
+    "Variant": "L",
+    "Description": "SL325M399-05LH_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M399-05LH",
+    "Variant": "M",
+    "Description": "SL325M399-05LH_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M399-05LH",
+    "Variant": "S",
+    "Description": "SL325M399-05LH_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325M399-05LH",
+    "Variant": "XL",
+    "Description": "SL325M399-05LH_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
     "Item No.": "SL325U378-00W5",
     "Variant": "L",
     "Description": "SL325U378-00W5_HOODED JACKET",
@@ -35502,6 +36447,223 @@
     "Description": "SL325U387-0018_SHORT SLEEVE TE",
     "UOM": "PCS",
     "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325U391-00EG",
+    "Variant": "L",
+    "Description": "SL325U391-00EG_HOODIES",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U391-00EG",
+    "Variant": "M",
+    "Description": "SL325U391-00EG_HOODIES",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U391-00EG",
+    "Variant": "S",
+    "Description": "SL325U391-00EG_HOODIES",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325U391-00EG",
+    "Variant": "XL",
+    "Description": "SL325U391-00EG_HOODIES",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325U391-039N",
+    "Variant": "L",
+    "Description": "SL325U391-039N_HOODIES",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U391-039N",
+    "Variant": "M",
+    "Description": "SL325U391-039N_HOODIES",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U391-039N",
+    "Variant": "S",
+    "Description": "SL325U391-039N_HOODIES",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325U391-039N",
+    "Variant": "XL",
+    "Description": "SL325U391-039N_HOODIES",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325U393-NS01",
+    "Variant": "L",
+    "Description": "SL325U393-NS01_SWEATER",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U393-NS01",
+    "Variant": "M",
+    "Description": "SL325U393-NS01_SWEATER",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U393-NS01",
+    "Variant": "S",
+    "Description": "SL325U393-NS01_SWEATER",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U393-NS01",
+    "Variant": "XL",
+    "Description": "SL325U393-NS01_SWEATER",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U393-NS01",
+    "Variant": "XXL",
+    "Description": "SL325U393-NS01_SWEATER",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U395-00QF",
+    "Variant": "L",
+    "Description": "SL325U395-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325U395-00QF",
+    "Variant": "M",
+    "Description": "SL325U395-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325U395-00QF",
+    "Variant": "S",
+    "Description": "SL325U395-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U395-00QF",
+    "Variant": "XL",
+    "Description": "SL325U395-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U395-00QF",
+    "Variant": "XXL",
+    "Description": "SL325U395-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325U395-04ZF",
+    "Variant": "L",
+    "Description": "SL325U395-04ZF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325U395-04ZF",
+    "Variant": "M",
+    "Description": "SL325U395-04ZF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325U395-04ZF",
+    "Variant": "S",
+    "Description": "SL325U395-04ZF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325U395-04ZF",
+    "Variant": "XL",
+    "Description": "SL325U395-04ZF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325U395-04ZF",
+    "Variant": "XXL",
+    "Description": "SL325U395-04ZF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325U397-00QF",
+    "Variant": "L",
+    "Description": "SL325U397-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325U397-00QF",
+    "Variant": "M",
+    "Description": "SL325U397-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325U397-00QF",
+    "Variant": "S",
+    "Description": "SL325U397-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U397-00QF",
+    "Variant": "XL",
+    "Description": "SL325U397-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U397-01X2",
+    "Variant": "L",
+    "Description": "SL325U397-01X2_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U397-01X2",
+    "Variant": "M",
+    "Description": "SL325U397-01X2_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325U397-01X2",
+    "Variant": "S",
+    "Description": "SL325U397-01X2_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325U397-01X2",
+    "Variant": "XL",
+    "Description": "SL325U397-01X2_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SL325U424-MGM3",
@@ -35606,7 +36768,7 @@
     "Variant": "0",
     "Description": "SL325U482-04CJ_BACKPACK",
     "UOM": "PCS",
-    "Net Inventory": "6"
+    "Net Inventory": "5"
   },
   {
     "Item No.": "SL325U483-01DS",
@@ -36309,6 +37471,503 @@
     "Net Inventory": "2"
   },
   {
+    "Item No.": "SL325W439-04UV",
+    "Variant": "L",
+    "Description": "SL325W439-04UV_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W439-04UV",
+    "Variant": "M",
+    "Description": "SL325W439-04UV_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W439-04UV",
+    "Variant": "S",
+    "Description": "SL325W439-04UV_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W439-04UV",
+    "Variant": "XL",
+    "Description": "SL325W439-04UV_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W439-05YB",
+    "Variant": "L",
+    "Description": "SL325W439-05YB_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W439-05YB",
+    "Variant": "M",
+    "Description": "SL325W439-05YB_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W439-05YB",
+    "Variant": "S",
+    "Description": "SL325W439-05YB_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W439-05YB",
+    "Variant": "XL",
+    "Description": "SL325W439-05YB_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W442-04UV",
+    "Variant": "L",
+    "Description": "SL325W442-04UV_LONG SLEEVE TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W442-04UV",
+    "Variant": "M",
+    "Description": "SL325W442-04UV_LONG SLEEVE TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W442-04UV",
+    "Variant": "S",
+    "Description": "SL325W442-04UV_LONG SLEEVE TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W442-04UV",
+    "Variant": "XL",
+    "Description": "SL325W442-04UV_LONG SLEEVE TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W442-05YB",
+    "Variant": "L",
+    "Description": "SL325W442-05YB_LONG SLEEVE TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W442-05YB",
+    "Variant": "M",
+    "Description": "SL325W442-05YB_LONG SLEEVE TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W442-05YB",
+    "Variant": "S",
+    "Description": "SL325W442-05YB_LONG SLEEVE TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W442-05YB",
+    "Variant": "XL",
+    "Description": "SL325W442-05YB_LONG SLEEVE TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W443-00QF",
+    "Variant": "L",
+    "Description": "SL325W443-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W443-00QF",
+    "Variant": "M",
+    "Description": "SL325W443-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W443-00QF",
+    "Variant": "S",
+    "Description": "SL325W443-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W443-00QF",
+    "Variant": "XL",
+    "Description": "SL325W443-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W443-05YB",
+    "Variant": "L",
+    "Description": "SL325W443-05YB_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W443-05YB",
+    "Variant": "M",
+    "Description": "SL325W443-05YB_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W443-05YB",
+    "Variant": "S",
+    "Description": "SL325W443-05YB_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W443-05YB",
+    "Variant": "XL",
+    "Description": "SL325W443-05YB_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W444-0018",
+    "Variant": "L",
+    "Description": "SL325W444-0018_SLEEVELESS",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W444-0018",
+    "Variant": "M",
+    "Description": "SL325W444-0018_SLEEVELESS",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W444-0018",
+    "Variant": "S",
+    "Description": "SL325W444-0018_SLEEVELESS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W444-0018",
+    "Variant": "XL",
+    "Description": "SL325W444-0018_SLEEVELESS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W444-0018",
+    "Variant": "XXL",
+    "Description": "SL325W444-0018_SLEEVELESS",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325W444-04UV",
+    "Variant": "L",
+    "Description": "SL325W444-04UV_SLEEVELESS",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W444-04UV",
+    "Variant": "M",
+    "Description": "SL325W444-04UV_SLEEVELESS",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W444-04UV",
+    "Variant": "S",
+    "Description": "SL325W444-04UV_SLEEVELESS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W444-04UV",
+    "Variant": "XL",
+    "Description": "SL325W444-04UV_SLEEVELESS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W444-04UV",
+    "Variant": "XXL",
+    "Description": "SL325W444-04UV_SLEEVELESS",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325W446-00QF",
+    "Variant": "L",
+    "Description": "SL325W446-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W446-00QF",
+    "Variant": "M",
+    "Description": "SL325W446-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W446-00QF",
+    "Variant": "S",
+    "Description": "SL325W446-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W446-00QF",
+    "Variant": "XL",
+    "Description": "SL325W446-00QF_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W446-05YB",
+    "Variant": "L",
+    "Description": "SL325W446-05YB_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W446-05YB",
+    "Variant": "M",
+    "Description": "SL325W446-05YB_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W446-05YB",
+    "Variant": "S",
+    "Description": "SL325W446-05YB_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W446-05YB",
+    "Variant": "XL",
+    "Description": "SL325W446-05YB_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W447-0018",
+    "Variant": "L",
+    "Description": "SL325W447-0018_CROP TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W447-0018",
+    "Variant": "M",
+    "Description": "SL325W447-0018_CROP TEE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W447-0018",
+    "Variant": "S",
+    "Description": "SL325W447-0018_CROP TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W447-0018",
+    "Variant": "XL",
+    "Description": "SL325W447-0018_CROP TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W447-0018",
+    "Variant": "XXL",
+    "Description": "SL325W447-0018_CROP TEE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325W447-00QF",
+    "Variant": "L",
+    "Description": "SL325W447-00QF_CROP TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W447-00QF",
+    "Variant": "M",
+    "Description": "SL325W447-00QF_CROP TEE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W447-00QF",
+    "Variant": "S",
+    "Description": "SL325W447-00QF_CROP TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W447-00QF",
+    "Variant": "XL",
+    "Description": "SL325W447-00QF_CROP TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W447-00QF",
+    "Variant": "XXL",
+    "Description": "SL325W447-00QF_CROP TEE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325W448-AP03",
+    "Variant": "L",
+    "Description": "SL325W448-AP03_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W448-AP03",
+    "Variant": "M",
+    "Description": "SL325W448-AP03_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W448-AP03",
+    "Variant": "S",
+    "Description": "SL325W448-AP03_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W448-AP03",
+    "Variant": "XL",
+    "Description": "SL325W448-AP03_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W448-AP04",
+    "Variant": "L",
+    "Description": "SL325W448-AP04_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W448-AP04",
+    "Variant": "M",
+    "Description": "SL325W448-AP04_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W448-AP04",
+    "Variant": "S",
+    "Description": "SL325W448-AP04_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W448-AP04",
+    "Variant": "XL",
+    "Description": "SL325W448-AP04_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W448-AP04",
+    "Variant": "XXL",
+    "Description": "SL325W448-AP04_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SL325W450-0018",
+    "Variant": "L",
+    "Description": "SL325W450-0018_DRESS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W450-0018",
+    "Variant": "M",
+    "Description": "SL325W450-0018_DRESS",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W450-0018",
+    "Variant": "S",
+    "Description": "SL325W450-0018_DRESS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W450-0018",
+    "Variant": "XL",
+    "Description": "SL325W450-0018_DRESS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W450-0018",
+    "Variant": "XXL",
+    "Description": "SL325W450-0018_DRESS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W450-05F3",
+    "Variant": "L",
+    "Description": "SL325W450-05F3_DRESS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W450-05F3",
+    "Variant": "M",
+    "Description": "SL325W450-05F3_DRESS",
+    "UOM": "PCS",
+    "Net Inventory": "3"
+  },
+  {
+    "Item No.": "SL325W450-05F3",
+    "Variant": "S",
+    "Description": "SL325W450-05F3_DRESS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W450-05F3",
+    "Variant": "XL",
+    "Description": "SL325W450-05F3_DRESS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SL325W450-05F3",
+    "Variant": "XXL",
+    "Description": "SL325W450-05F3_DRESS",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
     "Item No.": "SL424U699-BGPE",
     "Variant": "0",
     "Description": "SL424U699-BGPE_SOCK SET",
@@ -36537,21 +38196,21 @@
     "Variant": "L",
     "Description": "SP125M042-04SZ_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP125M042-04SZ",
     "Variant": "M",
     "Description": "SP125M042-04SZ_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP125M042-04SZ",
     "Variant": "S",
     "Description": "SP125M042-04SZ_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP125M042-04SZ",
@@ -36740,7 +38399,7 @@
     "Variant": "S",
     "Description": "SP125M047-0018_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP125M047-04SZ",
@@ -36789,7 +38448,7 @@
     "Variant": "S",
     "Description": "SP125M048-0018_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP125M048-0018",
@@ -36817,7 +38476,7 @@
     "Variant": "S",
     "Description": "SP125M048-04SZ_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP125M048-04SZ",
@@ -36845,7 +38504,7 @@
     "Variant": "S",
     "Description": "SP125M049-0018_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP125M049-0018",
@@ -36859,14 +38518,14 @@
     "Variant": "L",
     "Description": "SP125M049-00K5_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "4"
   },
   {
     "Item No.": "SP125M049-00K5",
     "Variant": "M",
     "Description": "SP125M049-00K5_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP125M049-00K5",
@@ -37272,7 +38931,7 @@
     "Variant": "M",
     "Description": "SP125W147-006U_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP125W147-006U",
@@ -37321,7 +38980,7 @@
     "Variant": "L",
     "Description": "SP125W151-015B_SPORTS BRA",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP125W151-015B",
@@ -37426,21 +39085,21 @@
     "Variant": "M",
     "Description": "SP125W167-04QJ_TIGHTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP125W167-04QJ",
     "Variant": "S",
     "Description": "SP125W167-04QJ_TIGHTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP125W167-04QJ",
     "Variant": "XL",
     "Description": "SP125W167-04QJ_TIGHTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP125W169-00MW",
@@ -37517,21 +39176,21 @@
     "Variant": "S",
     "Description": "SP125W171-0018_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "-"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP125W171-0018",
     "Variant": "XL",
     "Description": "SP125W171-0018_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "-"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP125W171-011G",
     "Variant": "L",
     "Description": "SP125W171-011G_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP125W171-011G",
@@ -37552,7 +39211,7 @@
     "Variant": "XL",
     "Description": "SP125W171-011G_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP125W172-0018",
@@ -37608,14 +39267,14 @@
     "Variant": "L",
     "Description": "SP125W174-0018_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP125W174-0018",
     "Variant": "M",
     "Description": "SP125W174-0018_SHORT SLEEVE TE",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP125W174-0018",
@@ -37628,25 +39287,25 @@
     "Item No.": "SP125W174-0018",
     "Variant": "XL",
     "Description": "SP125W174-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP125W174-0024",
-    "Variant": "L",
-    "Description": "SP125W174-0024_SHORT SLEEVE TE",
     "UOM": "PCS",
     "Net Inventory": "2"
   },
   {
     "Item No.": "SP125W174-0024",
-    "Variant": "M",
+    "Variant": "L",
     "Description": "SP125W174-0024_SHORT SLEEVE TE",
     "UOM": "PCS",
     "Net Inventory": "3"
   },
   {
     "Item No.": "SP125W174-0024",
+    "Variant": "M",
+    "Description": "SP125W174-0024_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "4"
+  },
+  {
+    "Item No.": "SP125W174-0024",
     "Variant": "S",
     "Description": "SP125W174-0024_SHORT SLEEVE TE",
     "UOM": "PCS",
@@ -37664,7 +39323,7 @@
     "Variant": "L",
     "Description": "SP125W175-0018_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP125W175-0018",
@@ -37685,35 +39344,35 @@
     "Variant": "XL",
     "Description": "SP125W175-0018_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP125W175-04QJ",
     "Variant": "L",
     "Description": "SP125W175-04QJ_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP125W175-04QJ",
     "Variant": "M",
     "Description": "SP125W175-04QJ_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "3"
   },
   {
     "Item No.": "SP125W175-04QJ",
     "Variant": "S",
     "Description": "SP125W175-04QJ_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP125W175-04QJ",
     "Variant": "XL",
     "Description": "SP125W175-04QJ_SHORTS",
     "UOM": "PCS",
-    "Net Inventory": "1"
+    "Net Inventory": "2"
   },
   {
     "Item No.": "SP225M054-000Y",
@@ -37755,7 +39414,7 @@
     "Variant": "M",
     "Description": "SP225M054-0018_POLO",
     "UOM": "PCS",
-    "Net Inventory": "2"
+    "Net Inventory": "1"
   },
   {
     "Item No.": "SP225M054-0018",
@@ -38696,6 +40355,447 @@
     "Net Inventory": "1"
   },
   {
+    "Item No.": "SP325M329-0018",
+    "Variant": "L",
+    "Description": "SP325M329-0018_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M329-0018",
+    "Variant": "M",
+    "Description": "SP325M329-0018_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M329-0018",
+    "Variant": "S",
+    "Description": "SP325M329-0018_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M329-0018",
+    "Variant": "XL",
+    "Description": "SP325M329-0018_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M329-0019",
+    "Variant": "L",
+    "Description": "SP325M329-0019_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M329-0019",
+    "Variant": "M",
+    "Description": "SP325M329-0019_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M329-0019",
+    "Variant": "S",
+    "Description": "SP325M329-0019_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M329-0019",
+    "Variant": "XL",
+    "Description": "SP325M329-0019_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M329-0019",
+    "Variant": "XXL",
+    "Description": "SP325M329-0019_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M329-DS01",
+    "Variant": "L",
+    "Description": "SP325M329-DS01_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M329-DS01",
+    "Variant": "M",
+    "Description": "SP325M329-DS01_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M329-DS01",
+    "Variant": "S",
+    "Description": "SP325M329-DS01_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M329-DS01",
+    "Variant": "XL",
+    "Description": "SP325M329-DS01_POLO",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M330-0018",
+    "Variant": "L",
+    "Description": "SP325M330-0018_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M330-0018",
+    "Variant": "M",
+    "Description": "SP325M330-0018_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M330-0018",
+    "Variant": "S",
+    "Description": "SP325M330-0018_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M330-0018",
+    "Variant": "XL",
+    "Description": "SP325M330-0018_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M330-01F1",
+    "Variant": "L",
+    "Description": "SP325M330-01F1_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M330-01F1",
+    "Variant": "M",
+    "Description": "SP325M330-01F1_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M330-01F1",
+    "Variant": "S",
+    "Description": "SP325M330-01F1_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M330-01F1",
+    "Variant": "XL",
+    "Description": "SP325M330-01F1_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M330-01F1",
+    "Variant": "XXL",
+    "Description": "SP325M330-01F1_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M330-044Z",
+    "Variant": "L",
+    "Description": "SP325M330-044Z_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M330-044Z",
+    "Variant": "M",
+    "Description": "SP325M330-044Z_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M330-044Z",
+    "Variant": "S",
+    "Description": "SP325M330-044Z_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M330-044Z",
+    "Variant": "XL",
+    "Description": "SP325M330-044Z_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M331-0038",
+    "Variant": "L",
+    "Description": "SP325M331-0038_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M331-0038",
+    "Variant": "M",
+    "Description": "SP325M331-0038_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M331-0038",
+    "Variant": "S",
+    "Description": "SP325M331-0038_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M331-0038",
+    "Variant": "XL",
+    "Description": "SP325M331-0038_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M331-0038",
+    "Variant": "XXL",
+    "Description": "SP325M331-0038_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M332-0018",
+    "Variant": "L",
+    "Description": "SP325M332-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M332-0018",
+    "Variant": "M",
+    "Description": "SP325M332-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M332-0018",
+    "Variant": "S",
+    "Description": "SP325M332-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M332-0018",
+    "Variant": "XL",
+    "Description": "SP325M332-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M332-0018",
+    "Variant": "XXL",
+    "Description": "SP325M332-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M335-0018",
+    "Variant": "L",
+    "Description": "SP325M335-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M335-0018",
+    "Variant": "M",
+    "Description": "SP325M335-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M335-0018",
+    "Variant": "S",
+    "Description": "SP325M335-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M335-0018",
+    "Variant": "XL",
+    "Description": "SP325M335-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M335-0018",
+    "Variant": "XXL",
+    "Description": "SP325M335-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M335-0019",
+    "Variant": "L",
+    "Description": "SP325M335-0019_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M335-0019",
+    "Variant": "M",
+    "Description": "SP325M335-0019_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M335-0019",
+    "Variant": "S",
+    "Description": "SP325M335-0019_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M335-0019",
+    "Variant": "XL",
+    "Description": "SP325M335-0019_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M335-03KJ",
+    "Variant": "L",
+    "Description": "SP325M335-03KJ_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M335-03KJ",
+    "Variant": "M",
+    "Description": "SP325M335-03KJ_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M335-03KJ",
+    "Variant": "S",
+    "Description": "SP325M335-03KJ_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M335-03KJ",
+    "Variant": "XL",
+    "Description": "SP325M335-03KJ_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M336-044Z",
+    "Variant": "L",
+    "Description": "SP325M336-044Z_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M336-044Z",
+    "Variant": "M",
+    "Description": "SP325M336-044Z_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M336-044Z",
+    "Variant": "S",
+    "Description": "SP325M336-044Z_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M336-044Z",
+    "Variant": "XL",
+    "Description": "SP325M336-044Z_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M336-044Z",
+    "Variant": "XXL",
+    "Description": "SP325M336-044Z_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M337-0018",
+    "Variant": "L",
+    "Description": "SP325M337-0018_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M337-0018",
+    "Variant": "M",
+    "Description": "SP325M337-0018_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M337-0018",
+    "Variant": "S",
+    "Description": "SP325M337-0018_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M337-0018",
+    "Variant": "XL",
+    "Description": "SP325M337-0018_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M337-01F1",
+    "Variant": "L",
+    "Description": "SP325M337-01F1_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M337-01F1",
+    "Variant": "M",
+    "Description": "SP325M337-01F1_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325M337-01F1",
+    "Variant": "S",
+    "Description": "SP325M337-01F1_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SP325M337-01F1",
+    "Variant": "XL",
+    "Description": "SP325M337-01F1_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SP325M337-01F1",
+    "Variant": "XXL",
+    "Description": "SP325M337-01F1_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
     "Item No.": "SP325U477-0018",
     "Variant": "0",
     "Description": "SP325U477-0018_CROSS BODY BAG",
@@ -39319,6 +41419,447 @@
     "Net Inventory": "1"
   },
   {
+    "Item No.": "SP325W311-004S",
+    "Variant": "L",
+    "Description": "SP325W311-004S_HOODED JACKET",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W311-004S",
+    "Variant": "M",
+    "Description": "SP325W311-004S_HOODED JACKET",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W311-004S",
+    "Variant": "S",
+    "Description": "SP325W311-004S_HOODED JACKET",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W311-004S",
+    "Variant": "XL",
+    "Description": "SP325W311-004S_HOODED JACKET",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W312-0018",
+    "Variant": "L",
+    "Description": "SP325W312-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W312-0018",
+    "Variant": "M",
+    "Description": "SP325W312-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W312-0018",
+    "Variant": "S",
+    "Description": "SP325W312-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W312-0018",
+    "Variant": "XL",
+    "Description": "SP325W312-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W312-0018",
+    "Variant": "XXL",
+    "Description": "SP325W312-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SP325W312-0019",
+    "Variant": "L",
+    "Description": "SP325W312-0019_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W312-0019",
+    "Variant": "M",
+    "Description": "SP325W312-0019_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W312-0019",
+    "Variant": "S",
+    "Description": "SP325W312-0019_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W312-0019",
+    "Variant": "XL",
+    "Description": "SP325W312-0019_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W313-0038",
+    "Variant": "L",
+    "Description": "SP325W313-0038_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W313-0038",
+    "Variant": "M",
+    "Description": "SP325W313-0038_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W313-0038",
+    "Variant": "S",
+    "Description": "SP325W313-0038_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W313-0038",
+    "Variant": "XL",
+    "Description": "SP325W313-0038_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W314-0018",
+    "Variant": "L",
+    "Description": "SP325W314-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W314-0018",
+    "Variant": "M",
+    "Description": "SP325W314-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W314-0018",
+    "Variant": "S",
+    "Description": "SP325W314-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W314-0018",
+    "Variant": "XL",
+    "Description": "SP325W314-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W314-0018",
+    "Variant": "XXL",
+    "Description": "SP325W314-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SP325W314-02SK",
+    "Variant": "L",
+    "Description": "SP325W314-02SK_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W314-02SK",
+    "Variant": "M",
+    "Description": "SP325W314-02SK_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W314-02SK",
+    "Variant": "S",
+    "Description": "SP325W314-02SK_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W314-02SK",
+    "Variant": "XL",
+    "Description": "SP325W314-02SK_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W314-02SK",
+    "Variant": "XXL",
+    "Description": "SP325W314-02SK_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SP325W316-0018",
+    "Variant": "L",
+    "Description": "SP325W316-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W316-0018",
+    "Variant": "M",
+    "Description": "SP325W316-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W316-0018",
+    "Variant": "S",
+    "Description": "SP325W316-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W316-0018",
+    "Variant": "XL",
+    "Description": "SP325W316-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W316-0018",
+    "Variant": "XXL",
+    "Description": "SP325W316-0018_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SP325W316-02SK",
+    "Variant": "L",
+    "Description": "SP325W316-02SK_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W316-02SK",
+    "Variant": "M",
+    "Description": "SP325W316-02SK_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W316-02SK",
+    "Variant": "S",
+    "Description": "SP325W316-02SK_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W316-02SK",
+    "Variant": "XL",
+    "Description": "SP325W316-02SK_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W316-02SK",
+    "Variant": "XXL",
+    "Description": "SP325W316-02SK_SHORT SLEEVE TE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SP325W317-0018",
+    "Variant": "L",
+    "Description": "SP325W317-0018_LONG SLEEVE TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W317-0018",
+    "Variant": "M",
+    "Description": "SP325W317-0018_LONG SLEEVE TEE",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W317-0018",
+    "Variant": "S",
+    "Description": "SP325W317-0018_LONG SLEEVE TEE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SP325W317-0018",
+    "Variant": "XL",
+    "Description": "SP325W317-0018_LONG SLEEVE TEE",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SP325W318-0018",
+    "Variant": "L",
+    "Description": "SP325W318-0018_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W318-0018",
+    "Variant": "M",
+    "Description": "SP325W318-0018_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W318-0018",
+    "Variant": "S",
+    "Description": "SP325W318-0018_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W318-0018",
+    "Variant": "XL",
+    "Description": "SP325W318-0018_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W318-00AQ",
+    "Variant": "L",
+    "Description": "SP325W318-00AQ_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W318-00AQ",
+    "Variant": "M",
+    "Description": "SP325W318-00AQ_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W318-00AQ",
+    "Variant": "S",
+    "Description": "SP325W318-00AQ_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W318-00AQ",
+    "Variant": "XL",
+    "Description": "SP325W318-00AQ_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W318-00KW",
+    "Variant": "L",
+    "Description": "SP325W318-00KW_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W318-00KW",
+    "Variant": "M",
+    "Description": "SP325W318-00KW_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W318-00KW",
+    "Variant": "S",
+    "Description": "SP325W318-00KW_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SP325W318-00KW",
+    "Variant": "XL",
+    "Description": "SP325W318-00KW_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SP325W318-00KW",
+    "Variant": "XXL",
+    "Description": "SP325W318-00KW_SHORTS",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
+    "Item No.": "SP325W319-0018",
+    "Variant": "L",
+    "Description": "SP325W319-0018_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W319-0018",
+    "Variant": "M",
+    "Description": "SP325W319-0018_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W319-0018",
+    "Variant": "S",
+    "Description": "SP325W319-0018_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W319-0018",
+    "Variant": "XL",
+    "Description": "SP325W319-0018_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W319-004S",
+    "Variant": "L",
+    "Description": "SP325W319-004S_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W319-004S",
+    "Variant": "M",
+    "Description": "SP325W319-004S_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W319-004S",
+    "Variant": "S",
+    "Description": "SP325W319-004S_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W319-004S",
+    "Variant": "XL",
+    "Description": "SP325W319-004S_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "2"
+  },
+  {
+    "Item No.": "SP325W319-004S",
+    "Variant": "XXL",
+    "Description": "SP325W319-004S_PANTS",
+    "UOM": "PCS",
+    "Net Inventory": "1"
+  },
+  {
     "Item No.": "SP325W327-0018",
     "Variant": "L",
     "Description": "SP325W327-0018_HOODED JACKET",
@@ -39354,2657 +41895,67 @@
     "Net Inventory": "10"
   },
   {
-    "Item No.": "111657-CRL",
-    "Variant": "10",
-    "Description": "111657-CRL_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111657-CRL",
-    "Variant": "6",
-    "Description": "111657-CRL_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111657-CRL",
-    "Variant": "7",
-    "Description": "111657-CRL_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111657-CRL",
-    "Variant": "8",
-    "Description": "111657-CRL_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111657-CRL",
-    "Variant": "9",
-    "Description": "111657-CRL_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111657-WHT",
-    "Variant": "10",
-    "Description": "111657-WHT_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111657-WHT",
-    "Variant": "6",
-    "Description": "111657-WHT_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111657-WHT",
-    "Variant": "7",
-    "Description": "111657-WHT_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111657-WHT",
-    "Variant": "8",
-    "Description": "111657-WHT_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111657-WHT",
-    "Variant": "9",
-    "Description": "111657-WHT_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111658-OFWT",
-    "Variant": "10",
-    "Description": "111658-OFWT_MAX CUSHIONING FOA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111658-OFWT",
-    "Variant": "5",
-    "Description": "111658-OFWT_MAX CUSHIONING FOA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111658-OFWT",
-    "Variant": "6",
-    "Description": "111658-OFWT_MAX CUSHIONING FOA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111658-OFWT",
-    "Variant": "7",
-    "Description": "111658-OFWT_MAX CUSHIONING FOA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111658-OFWT",
-    "Variant": "8",
-    "Description": "111658-OFWT_MAX CUSHIONING FOA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111658-OFWT",
-    "Variant": "9",
-    "Description": "111658-OFWT_MAX CUSHIONING FOA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111658-PCH",
-    "Variant": "10",
-    "Description": "111658-PCH_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111658-PCH",
-    "Variant": "5",
-    "Description": "111658-PCH_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111658-PCH",
-    "Variant": "6",
-    "Description": "111658-PCH_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111658-PCH",
-    "Variant": "7",
-    "Description": "111658-PCH_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111658-PCH",
-    "Variant": "8",
-    "Description": "111658-PCH_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111658-PCH",
-    "Variant": "9",
-    "Description": "111658-PCH_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111659-NTMT",
-    "Variant": "10",
-    "Description": "111659-NTMT_MAX CUSHIONING FOA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111659-NTMT",
-    "Variant": "5",
-    "Description": "111659-NTMT_MAX CUSHIONING FOA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111659-WMLT",
-    "Variant": "10",
-    "Description": "111659-WMLT_MAX CUSHIONING FOA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "111659-WMLT",
-    "Variant": "5",
-    "Description": "111659-WMLT_MAX CUSHIONING FOA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "125586-TPGD",
-    "Variant": "10",
-    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "125586-TPGD",
-    "Variant": "6",
-    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "125586-TPGD",
-    "Variant": "6.5",
-    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "125586-TPGD",
-    "Variant": "7",
-    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "125586-TPGD",
-    "Variant": "7.5",
-    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "125586-TPGD",
-    "Variant": "8",
-    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "125586-TPGD",
-    "Variant": "8.5",
-    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "125586-TPGD",
-    "Variant": "9",
-    "Description": "125586-TPGD_GW MAXCUSH ARCHFIT",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "150512-NTGY",
-    "Variant": "10",
-    "Description": "150512-NTGY_GLIDE-STEP ALTUS",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "150512-NTGY",
-    "Variant": "5",
-    "Description": "150512-NTGY_GLIDE-STEP ALTUS",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "150512-NTGY",
-    "Variant": "6",
-    "Description": "150512-NTGY_GLIDE-STEP ALTUS",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "150512-NTGY",
-    "Variant": "7",
-    "Description": "150512-NTGY_GLIDE-STEP ALTUS",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "150512-NTGY",
-    "Variant": "8",
-    "Description": "150512-NTGY_GLIDE-STEP ALTUS",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "150512-NTGY",
-    "Variant": "9",
-    "Description": "150512-NTGY_GLIDE-STEP ALTUS",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "150512-WMLT",
-    "Variant": "10",
-    "Description": "150512-WMLT_GLIDE-STEP ALTUS",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "150512-WMLT",
-    "Variant": "5",
-    "Description": "150512-WMLT_GLIDE-STEP ALTUS",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "150512-WMLT",
-    "Variant": "6",
-    "Description": "150512-WMLT_GLIDE-STEP ALTUS",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "150512-WMLT",
-    "Variant": "7",
-    "Description": "150512-WMLT_GLIDE-STEP ALTUS",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "150512-WMLT",
-    "Variant": "8",
-    "Description": "150512-WMLT_GLIDE-STEP ALTUS",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "150512-WMLT",
-    "Variant": "9",
-    "Description": "150512-WMLT_GLIDE-STEP ALTUS",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "159087-BBK",
-    "Variant": "10",
-    "Description": "159087-BBK_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "159087-BBK",
-    "Variant": "6",
-    "Description": "159087-BBK_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "159087-BBK",
-    "Variant": "7",
-    "Description": "159087-BBK_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "159087-BBK",
-    "Variant": "8",
-    "Description": "159087-BBK_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "159087-BBK",
-    "Variant": "9",
-    "Description": "159087-BBK_ARCH FIT LAGUNA",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-WHT",
-    "Variant": "10",
-    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-WHT",
-    "Variant": "10.5",
-    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-WHT",
-    "Variant": "11",
-    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-WHT",
-    "Variant": "7.5",
-    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-WHT",
-    "Variant": "8",
-    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-WHT",
-    "Variant": "8.5",
-    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "217129-WHT",
-    "Variant": "9",
-    "Description": "217129-WHT_GOWALK MAXCUSH HYPE",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-BLK",
-    "Variant": "10",
-    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-BLK",
-    "Variant": "10.5",
-    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-BLK",
-    "Variant": "11",
-    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-BLK",
-    "Variant": "7.5",
-    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-BLK",
-    "Variant": "8",
-    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-BLK",
-    "Variant": "8.5",
-    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-BLK",
-    "Variant": "9",
-    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-BLK",
-    "Variant": "9.5",
-    "Description": "220553-BLK_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-NAT",
-    "Variant": "10",
-    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-NAT",
-    "Variant": "10.5",
-    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-NAT",
-    "Variant": "11",
-    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-NAT",
-    "Variant": "7.5",
-    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-NAT",
-    "Variant": "8",
-    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-NAT",
-    "Variant": "8.5",
-    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-NAT",
-    "Variant": "9",
-    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "220553-NAT",
-    "Variant": "9.5",
-    "Description": "220553-NAT_MAX CUSH ARCH FIT2.",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-BLK",
-    "Variant": "10",
-    "Description": "232712WW-BLK_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-BLK",
-    "Variant": "10.5",
-    "Description": "232712WW-BLK_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-BLK",
-    "Variant": "11",
-    "Description": "232712WW-BLK_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-BLK",
-    "Variant": "12",
-    "Description": "232712WW-BLK_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-BLK",
-    "Variant": "7.5",
-    "Description": "232712WW-BLK_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-BLK",
-    "Variant": "8",
-    "Description": "232712WW-BLK_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-BLK",
-    "Variant": "9",
-    "Description": "232712WW-BLK_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-CCYL",
-    "Variant": "10",
-    "Description": "232712WW-CCYL_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-CCYL",
-    "Variant": "10.5",
-    "Description": "232712WW-CCYL_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-CCYL",
-    "Variant": "11",
-    "Description": "232712WW-CCYL_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-CCYL",
-    "Variant": "12",
-    "Description": "232712WW-CCYL_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-CCYL",
-    "Variant": "7.5",
-    "Description": "232712WW-CCYL_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-CCYL",
-    "Variant": "8",
-    "Description": "232712WW-CCYL_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "232712WW-CCYL",
-    "Variant": "9",
-    "Description": "232712WW-CCYL_ARCH FIT 2.0",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "243277-BBK",
-    "Variant": "7",
-    "Description": "243277-BBK_MAX CUSHIONING FOAM",
-    "UOM": "PAIR",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "L125M028-00V8",
-    "Variant": "L",
-    "Description": "L125M028-00V8_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "L125M028-00V8",
-    "Variant": "M",
-    "Description": "L125M028-00V8_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "L125M028-00V8",
-    "Variant": "S",
-    "Description": "L125M028-00V8_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "L125M028-00V8",
-    "Variant": "XL",
-    "Description": "L125M028-00V8_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225M018-0001",
-    "Variant": "L",
-    "Description": "SL225M018-0001_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225M018-0001",
-    "Variant": "M",
-    "Description": "SL225M018-0001_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225M018-0001",
-    "Variant": "XL",
-    "Description": "SL225M018-0001_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225M018-0001",
-    "Variant": "XXL",
-    "Description": "SL225M018-0001_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225M018-002Z",
-    "Variant": "L",
-    "Description": "SL225M018-002Z_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225M018-002Z",
-    "Variant": "M",
-    "Description": "SL225M018-002Z_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225M018-002Z",
-    "Variant": "XL",
-    "Description": "SL225M018-002Z_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225M018-002Z",
-    "Variant": "XXL",
-    "Description": "SL225M018-002Z_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225M122-00Z8",
-    "Variant": "XXL",
-    "Description": "SL225M122-00Z8_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W127-0001",
-    "Variant": "L",
-    "Description": "SL225W127-0001_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W127-0001",
-    "Variant": "M",
-    "Description": "SL225W127-0001_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W127-0001",
-    "Variant": "S",
-    "Description": "SL225W127-0001_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W127-0001",
-    "Variant": "XL",
-    "Description": "SL225W127-0001_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W127-002Z",
-    "Variant": "L",
-    "Description": "SL225W127-002Z_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W127-002Z",
-    "Variant": "M",
-    "Description": "SL225W127-002Z_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W127-002Z",
-    "Variant": "S",
-    "Description": "SL225W127-002Z_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W127-002Z",
-    "Variant": "XL",
-    "Description": "SL225W127-002Z_SHIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W194-0001",
-    "Variant": "L",
-    "Description": "SL225W194-0001_SKIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W194-0001",
-    "Variant": "M",
-    "Description": "SL225W194-0001_SKIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W194-0001",
-    "Variant": "S",
-    "Description": "SL225W194-0001_SKIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W194-0001",
-    "Variant": "XL",
-    "Description": "SL225W194-0001_SKIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W194-002Z",
-    "Variant": "L",
-    "Description": "SL225W194-002Z_SKIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W194-002Z",
-    "Variant": "M",
-    "Description": "SL225W194-002Z_SKIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W194-002Z",
-    "Variant": "XL",
-    "Description": "SL225W194-002Z_SKIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL225W194-002Z",
-    "Variant": "XXL",
-    "Description": "SL225W194-002Z_SKIRT",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M388-05LH",
-    "Variant": "L",
-    "Description": "SL325M388-05LH_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M388-05LH",
-    "Variant": "M",
-    "Description": "SL325M388-05LH_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M388-05LH",
-    "Variant": "S",
-    "Description": "SL325M388-05LH_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M388-05LH",
-    "Variant": "XL",
-    "Description": "SL325M388-05LH_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M392-00QF",
-    "Variant": "L",
-    "Description": "SL325M392-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M392-00QF",
-    "Variant": "M",
-    "Description": "SL325M392-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M392-00QF",
-    "Variant": "S",
-    "Description": "SL325M392-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M392-00QF",
-    "Variant": "XL",
-    "Description": "SL325M392-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M392-04ZF",
-    "Variant": "L",
-    "Description": "SL325M392-04ZF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M392-04ZF",
-    "Variant": "M",
-    "Description": "SL325M392-04ZF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M392-04ZF",
-    "Variant": "S",
-    "Description": "SL325M392-04ZF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M392-04ZF",
-    "Variant": "XL",
-    "Description": "SL325M392-04ZF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M394-04ZF",
-    "Variant": "L",
-    "Description": "SL325M394-04ZF_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M394-04ZF",
-    "Variant": "M",
-    "Description": "SL325M394-04ZF_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M394-04ZF",
-    "Variant": "S",
-    "Description": "SL325M394-04ZF_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M394-04ZF",
-    "Variant": "XL",
-    "Description": "SL325M394-04ZF_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M394-NS01",
-    "Variant": "L",
-    "Description": "SL325M394-NS01_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M394-NS01",
-    "Variant": "M",
-    "Description": "SL325M394-NS01_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M394-NS01",
-    "Variant": "S",
-    "Description": "SL325M394-NS01_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M394-NS01",
-    "Variant": "XL",
-    "Description": "SL325M394-NS01_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M394-NS01",
-    "Variant": "XXL",
-    "Description": "SL325M394-NS01_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M398-05LH",
-    "Variant": "L",
-    "Description": "SL325M398-05LH_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M398-05LH",
-    "Variant": "M",
-    "Description": "SL325M398-05LH_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M398-05LH",
-    "Variant": "S",
-    "Description": "SL325M398-05LH_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M398-05LH",
-    "Variant": "XL",
-    "Description": "SL325M398-05LH_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M399-00EG",
-    "Variant": "L",
-    "Description": "SL325M399-00EG_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M399-00EG",
-    "Variant": "M",
-    "Description": "SL325M399-00EG_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M399-00EG",
-    "Variant": "S",
-    "Description": "SL325M399-00EG_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M399-00EG",
-    "Variant": "XL",
-    "Description": "SL325M399-00EG_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M399-05LH",
-    "Variant": "L",
-    "Description": "SL325M399-05LH_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M399-05LH",
-    "Variant": "M",
-    "Description": "SL325M399-05LH_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M399-05LH",
-    "Variant": "S",
-    "Description": "SL325M399-05LH_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325M399-05LH",
-    "Variant": "XL",
-    "Description": "SL325M399-05LH_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U391-00EG",
-    "Variant": "L",
-    "Description": "SL325U391-00EG_HOODIES",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U391-00EG",
-    "Variant": "M",
-    "Description": "SL325U391-00EG_HOODIES",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U391-00EG",
-    "Variant": "S",
-    "Description": "SL325U391-00EG_HOODIES",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U391-00EG",
-    "Variant": "XL",
-    "Description": "SL325U391-00EG_HOODIES",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U391-039N",
-    "Variant": "L",
-    "Description": "SL325U391-039N_HOODIES",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U391-039N",
-    "Variant": "M",
-    "Description": "SL325U391-039N_HOODIES",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U391-039N",
-    "Variant": "S",
-    "Description": "SL325U391-039N_HOODIES",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U391-039N",
-    "Variant": "XL",
-    "Description": "SL325U391-039N_HOODIES",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U393-NS01",
-    "Variant": "L",
-    "Description": "SL325U393-NS01_SWEATER",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U393-NS01",
-    "Variant": "M",
-    "Description": "SL325U393-NS01_SWEATER",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U393-NS01",
-    "Variant": "S",
-    "Description": "SL325U393-NS01_SWEATER",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U393-NS01",
-    "Variant": "XL",
-    "Description": "SL325U393-NS01_SWEATER",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U393-NS01",
-    "Variant": "XXL",
-    "Description": "SL325U393-NS01_SWEATER",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U395-00QF",
-    "Variant": "L",
-    "Description": "SL325U395-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U395-00QF",
-    "Variant": "M",
-    "Description": "SL325U395-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U395-00QF",
-    "Variant": "S",
-    "Description": "SL325U395-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U395-00QF",
-    "Variant": "XL",
-    "Description": "SL325U395-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U395-00QF",
-    "Variant": "XXL",
-    "Description": "SL325U395-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U395-04ZF",
-    "Variant": "L",
-    "Description": "SL325U395-04ZF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U395-04ZF",
-    "Variant": "M",
-    "Description": "SL325U395-04ZF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U395-04ZF",
-    "Variant": "S",
-    "Description": "SL325U395-04ZF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U395-04ZF",
-    "Variant": "XL",
-    "Description": "SL325U395-04ZF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U395-04ZF",
-    "Variant": "XXL",
-    "Description": "SL325U395-04ZF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U397-00QF",
-    "Variant": "L",
-    "Description": "SL325U397-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U397-00QF",
-    "Variant": "M",
-    "Description": "SL325U397-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U397-00QF",
-    "Variant": "S",
-    "Description": "SL325U397-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U397-00QF",
-    "Variant": "XL",
-    "Description": "SL325U397-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U397-01X2",
-    "Variant": "L",
-    "Description": "SL325U397-01X2_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U397-01X2",
-    "Variant": "M",
-    "Description": "SL325U397-01X2_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U397-01X2",
-    "Variant": "S",
-    "Description": "SL325U397-01X2_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325U397-01X2",
-    "Variant": "XL",
-    "Description": "SL325U397-01X2_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W439-04UV",
-    "Variant": "L",
-    "Description": "SL325W439-04UV_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W439-04UV",
-    "Variant": "M",
-    "Description": "SL325W439-04UV_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W439-04UV",
-    "Variant": "S",
-    "Description": "SL325W439-04UV_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W439-04UV",
-    "Variant": "XL",
-    "Description": "SL325W439-04UV_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W439-05YB",
-    "Variant": "L",
-    "Description": "SL325W439-05YB_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W439-05YB",
-    "Variant": "M",
-    "Description": "SL325W439-05YB_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W439-05YB",
-    "Variant": "S",
-    "Description": "SL325W439-05YB_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W439-05YB",
-    "Variant": "XL",
-    "Description": "SL325W439-05YB_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W442-04UV",
-    "Variant": "L",
-    "Description": "SL325W442-04UV_LONG SLEEVE TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W442-04UV",
-    "Variant": "M",
-    "Description": "SL325W442-04UV_LONG SLEEVE TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W442-04UV",
-    "Variant": "S",
-    "Description": "SL325W442-04UV_LONG SLEEVE TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W442-04UV",
-    "Variant": "XL",
-    "Description": "SL325W442-04UV_LONG SLEEVE TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W442-05YB",
-    "Variant": "L",
-    "Description": "SL325W442-05YB_LONG SLEEVE TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W442-05YB",
-    "Variant": "M",
-    "Description": "SL325W442-05YB_LONG SLEEVE TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W442-05YB",
-    "Variant": "S",
-    "Description": "SL325W442-05YB_LONG SLEEVE TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W442-05YB",
-    "Variant": "XL",
-    "Description": "SL325W442-05YB_LONG SLEEVE TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W443-00QF",
-    "Variant": "L",
-    "Description": "SL325W443-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W443-00QF",
-    "Variant": "M",
-    "Description": "SL325W443-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W443-00QF",
-    "Variant": "S",
-    "Description": "SL325W443-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W443-00QF",
-    "Variant": "XL",
-    "Description": "SL325W443-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W443-05YB",
-    "Variant": "L",
-    "Description": "SL325W443-05YB_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W443-05YB",
-    "Variant": "M",
-    "Description": "SL325W443-05YB_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W443-05YB",
-    "Variant": "S",
-    "Description": "SL325W443-05YB_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W443-05YB",
-    "Variant": "XL",
-    "Description": "SL325W443-05YB_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W444-0018",
-    "Variant": "L",
-    "Description": "SL325W444-0018_SLEEVELESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W444-0018",
-    "Variant": "M",
-    "Description": "SL325W444-0018_SLEEVELESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W444-0018",
-    "Variant": "S",
-    "Description": "SL325W444-0018_SLEEVELESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W444-0018",
-    "Variant": "XL",
-    "Description": "SL325W444-0018_SLEEVELESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W444-0018",
-    "Variant": "XXL",
-    "Description": "SL325W444-0018_SLEEVELESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W444-04UV",
-    "Variant": "L",
-    "Description": "SL325W444-04UV_SLEEVELESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W444-04UV",
-    "Variant": "M",
-    "Description": "SL325W444-04UV_SLEEVELESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W444-04UV",
-    "Variant": "S",
-    "Description": "SL325W444-04UV_SLEEVELESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W444-04UV",
-    "Variant": "XL",
-    "Description": "SL325W444-04UV_SLEEVELESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W444-04UV",
-    "Variant": "XXL",
-    "Description": "SL325W444-04UV_SLEEVELESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W446-00QF",
-    "Variant": "L",
-    "Description": "SL325W446-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W446-00QF",
-    "Variant": "M",
-    "Description": "SL325W446-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W446-00QF",
-    "Variant": "S",
-    "Description": "SL325W446-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W446-00QF",
-    "Variant": "XL",
-    "Description": "SL325W446-00QF_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W446-05YB",
-    "Variant": "L",
-    "Description": "SL325W446-05YB_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W446-05YB",
-    "Variant": "M",
-    "Description": "SL325W446-05YB_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W446-05YB",
-    "Variant": "S",
-    "Description": "SL325W446-05YB_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W446-05YB",
-    "Variant": "XL",
-    "Description": "SL325W446-05YB_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W447-0018",
-    "Variant": "L",
-    "Description": "SL325W447-0018_CROP TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W447-0018",
-    "Variant": "M",
-    "Description": "SL325W447-0018_CROP TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W447-0018",
-    "Variant": "S",
-    "Description": "SL325W447-0018_CROP TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W447-0018",
-    "Variant": "XL",
-    "Description": "SL325W447-0018_CROP TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W447-0018",
-    "Variant": "XXL",
-    "Description": "SL325W447-0018_CROP TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W447-00QF",
-    "Variant": "L",
-    "Description": "SL325W447-00QF_CROP TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W447-00QF",
-    "Variant": "M",
-    "Description": "SL325W447-00QF_CROP TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W447-00QF",
-    "Variant": "S",
-    "Description": "SL325W447-00QF_CROP TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W447-00QF",
-    "Variant": "XL",
-    "Description": "SL325W447-00QF_CROP TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W447-00QF",
-    "Variant": "XXL",
-    "Description": "SL325W447-00QF_CROP TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W448-AP03",
-    "Variant": "L",
-    "Description": "SL325W448-AP03_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W448-AP03",
-    "Variant": "M",
-    "Description": "SL325W448-AP03_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W448-AP03",
-    "Variant": "S",
-    "Description": "SL325W448-AP03_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W448-AP03",
-    "Variant": "XL",
-    "Description": "SL325W448-AP03_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W448-AP04",
-    "Variant": "L",
-    "Description": "SL325W448-AP04_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W448-AP04",
-    "Variant": "M",
-    "Description": "SL325W448-AP04_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W448-AP04",
-    "Variant": "S",
-    "Description": "SL325W448-AP04_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W448-AP04",
-    "Variant": "XL",
-    "Description": "SL325W448-AP04_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W448-AP04",
-    "Variant": "XXL",
-    "Description": "SL325W448-AP04_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W450-0018",
-    "Variant": "L",
-    "Description": "SL325W450-0018_DRESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W450-0018",
-    "Variant": "M",
-    "Description": "SL325W450-0018_DRESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W450-0018",
-    "Variant": "S",
-    "Description": "SL325W450-0018_DRESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W450-0018",
-    "Variant": "XL",
-    "Description": "SL325W450-0018_DRESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W450-0018",
-    "Variant": "XXL",
-    "Description": "SL325W450-0018_DRESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W450-05F3",
-    "Variant": "L",
-    "Description": "SL325W450-05F3_DRESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W450-05F3",
-    "Variant": "M",
-    "Description": "SL325W450-05F3_DRESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W450-05F3",
-    "Variant": "S",
-    "Description": "SL325W450-05F3_DRESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W450-05F3",
-    "Variant": "XL",
-    "Description": "SL325W450-05F3_DRESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SL325W450-05F3",
-    "Variant": "XXL",
-    "Description": "SL325W450-05F3_DRESS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M329-0018",
-    "Variant": "L",
-    "Description": "SP325M329-0018_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M329-0018",
-    "Variant": "M",
-    "Description": "SP325M329-0018_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M329-0018",
-    "Variant": "S",
-    "Description": "SP325M329-0018_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M329-0018",
-    "Variant": "XL",
-    "Description": "SP325M329-0018_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M329-0019",
-    "Variant": "L",
-    "Description": "SP325M329-0019_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M329-0019",
-    "Variant": "M",
-    "Description": "SP325M329-0019_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M329-0019",
-    "Variant": "S",
-    "Description": "SP325M329-0019_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M329-0019",
-    "Variant": "XL",
-    "Description": "SP325M329-0019_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M329-0019",
-    "Variant": "XXL",
-    "Description": "SP325M329-0019_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M329-DS01",
-    "Variant": "L",
-    "Description": "SP325M329-DS01_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M329-DS01",
-    "Variant": "M",
-    "Description": "SP325M329-DS01_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M329-DS01",
-    "Variant": "S",
-    "Description": "SP325M329-DS01_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M329-DS01",
-    "Variant": "XL",
-    "Description": "SP325M329-DS01_POLO",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M330-0018",
-    "Variant": "L",
-    "Description": "SP325M330-0018_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M330-0018",
-    "Variant": "M",
-    "Description": "SP325M330-0018_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M330-0018",
-    "Variant": "S",
-    "Description": "SP325M330-0018_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M330-0018",
-    "Variant": "XL",
-    "Description": "SP325M330-0018_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M330-01F1",
-    "Variant": "L",
-    "Description": "SP325M330-01F1_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M330-01F1",
-    "Variant": "M",
-    "Description": "SP325M330-01F1_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M330-01F1",
-    "Variant": "S",
-    "Description": "SP325M330-01F1_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M330-01F1",
-    "Variant": "XL",
-    "Description": "SP325M330-01F1_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M330-01F1",
-    "Variant": "XXL",
-    "Description": "SP325M330-01F1_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M330-044Z",
-    "Variant": "L",
-    "Description": "SP325M330-044Z_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M330-044Z",
-    "Variant": "M",
-    "Description": "SP325M330-044Z_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M330-044Z",
-    "Variant": "S",
-    "Description": "SP325M330-044Z_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M330-044Z",
-    "Variant": "XL",
-    "Description": "SP325M330-044Z_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M331-0038",
-    "Variant": "L",
-    "Description": "SP325M331-0038_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M331-0038",
-    "Variant": "M",
-    "Description": "SP325M331-0038_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M331-0038",
-    "Variant": "S",
-    "Description": "SP325M331-0038_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M331-0038",
-    "Variant": "XL",
-    "Description": "SP325M331-0038_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M331-0038",
-    "Variant": "XXL",
-    "Description": "SP325M331-0038_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M332-0018",
-    "Variant": "L",
-    "Description": "SP325M332-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M332-0018",
-    "Variant": "M",
-    "Description": "SP325M332-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M332-0018",
-    "Variant": "S",
-    "Description": "SP325M332-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M332-0018",
-    "Variant": "XL",
-    "Description": "SP325M332-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M332-0018",
-    "Variant": "XXL",
-    "Description": "SP325M332-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M335-0018",
-    "Variant": "L",
-    "Description": "SP325M335-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M335-0018",
-    "Variant": "M",
-    "Description": "SP325M335-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M335-0018",
-    "Variant": "S",
-    "Description": "SP325M335-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M335-0018",
-    "Variant": "XL",
-    "Description": "SP325M335-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M335-0018",
-    "Variant": "XXL",
-    "Description": "SP325M335-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M335-0019",
-    "Variant": "L",
-    "Description": "SP325M335-0019_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M335-0019",
-    "Variant": "M",
-    "Description": "SP325M335-0019_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M335-0019",
-    "Variant": "S",
-    "Description": "SP325M335-0019_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M335-0019",
-    "Variant": "XL",
-    "Description": "SP325M335-0019_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M335-03KJ",
-    "Variant": "L",
-    "Description": "SP325M335-03KJ_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M335-03KJ",
-    "Variant": "M",
-    "Description": "SP325M335-03KJ_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M335-03KJ",
-    "Variant": "S",
-    "Description": "SP325M335-03KJ_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M335-03KJ",
-    "Variant": "XL",
-    "Description": "SP325M335-03KJ_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M336-044Z",
-    "Variant": "L",
-    "Description": "SP325M336-044Z_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M336-044Z",
-    "Variant": "M",
-    "Description": "SP325M336-044Z_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M336-044Z",
-    "Variant": "S",
-    "Description": "SP325M336-044Z_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M336-044Z",
-    "Variant": "XL",
-    "Description": "SP325M336-044Z_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M336-044Z",
-    "Variant": "XXL",
-    "Description": "SP325M336-044Z_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M337-0018",
-    "Variant": "L",
-    "Description": "SP325M337-0018_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M337-0018",
-    "Variant": "M",
-    "Description": "SP325M337-0018_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M337-0018",
-    "Variant": "S",
-    "Description": "SP325M337-0018_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M337-0018",
-    "Variant": "XL",
-    "Description": "SP325M337-0018_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M337-01F1",
-    "Variant": "L",
-    "Description": "SP325M337-01F1_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M337-01F1",
-    "Variant": "M",
-    "Description": "SP325M337-01F1_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M337-01F1",
-    "Variant": "S",
-    "Description": "SP325M337-01F1_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M337-01F1",
-    "Variant": "XL",
-    "Description": "SP325M337-01F1_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325M337-01F1",
-    "Variant": "XXL",
-    "Description": "SP325M337-01F1_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W311-004S",
-    "Variant": "L",
-    "Description": "SP325W311-004S_HOODED JACKET",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W311-004S",
-    "Variant": "M",
-    "Description": "SP325W311-004S_HOODED JACKET",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W311-004S",
-    "Variant": "S",
-    "Description": "SP325W311-004S_HOODED JACKET",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W311-004S",
-    "Variant": "XL",
-    "Description": "SP325W311-004S_HOODED JACKET",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W312-0018",
-    "Variant": "L",
-    "Description": "SP325W312-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W312-0018",
-    "Variant": "M",
-    "Description": "SP325W312-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W312-0018",
-    "Variant": "S",
-    "Description": "SP325W312-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W312-0018",
-    "Variant": "XL",
-    "Description": "SP325W312-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W312-0018",
-    "Variant": "XXL",
-    "Description": "SP325W312-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W312-0019",
-    "Variant": "L",
-    "Description": "SP325W312-0019_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W312-0019",
-    "Variant": "M",
-    "Description": "SP325W312-0019_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W312-0019",
-    "Variant": "S",
-    "Description": "SP325W312-0019_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W312-0019",
-    "Variant": "XL",
-    "Description": "SP325W312-0019_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W313-0038",
-    "Variant": "L",
-    "Description": "SP325W313-0038_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W313-0038",
-    "Variant": "M",
-    "Description": "SP325W313-0038_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W313-0038",
-    "Variant": "S",
-    "Description": "SP325W313-0038_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W313-0038",
-    "Variant": "XL",
-    "Description": "SP325W313-0038_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W314-0018",
-    "Variant": "L",
-    "Description": "SP325W314-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W314-0018",
-    "Variant": "M",
-    "Description": "SP325W314-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W314-0018",
-    "Variant": "S",
-    "Description": "SP325W314-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W314-0018",
-    "Variant": "XL",
-    "Description": "SP325W314-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W314-0018",
-    "Variant": "XXL",
-    "Description": "SP325W314-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W314-02SK",
-    "Variant": "L",
-    "Description": "SP325W314-02SK_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W314-02SK",
-    "Variant": "M",
-    "Description": "SP325W314-02SK_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W314-02SK",
-    "Variant": "S",
-    "Description": "SP325W314-02SK_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W314-02SK",
-    "Variant": "XL",
-    "Description": "SP325W314-02SK_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W314-02SK",
-    "Variant": "XXL",
-    "Description": "SP325W314-02SK_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W316-0018",
-    "Variant": "L",
-    "Description": "SP325W316-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W316-0018",
-    "Variant": "M",
-    "Description": "SP325W316-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W316-0018",
-    "Variant": "S",
-    "Description": "SP325W316-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W316-0018",
-    "Variant": "XL",
-    "Description": "SP325W316-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W316-0018",
-    "Variant": "XXL",
-    "Description": "SP325W316-0018_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W316-02SK",
-    "Variant": "L",
-    "Description": "SP325W316-02SK_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W316-02SK",
-    "Variant": "M",
-    "Description": "SP325W316-02SK_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W316-02SK",
-    "Variant": "S",
-    "Description": "SP325W316-02SK_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W316-02SK",
-    "Variant": "XL",
-    "Description": "SP325W316-02SK_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W316-02SK",
-    "Variant": "XXL",
-    "Description": "SP325W316-02SK_SHORT SLEEVE TE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W317-0018",
-    "Variant": "L",
-    "Description": "SP325W317-0018_LONG SLEEVE TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W317-0018",
-    "Variant": "M",
-    "Description": "SP325W317-0018_LONG SLEEVE TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W317-0018",
-    "Variant": "S",
-    "Description": "SP325W317-0018_LONG SLEEVE TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W317-0018",
-    "Variant": "XL",
-    "Description": "SP325W317-0018_LONG SLEEVE TEE",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W318-0018",
-    "Variant": "L",
-    "Description": "SP325W318-0018_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W318-0018",
-    "Variant": "M",
-    "Description": "SP325W318-0018_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W318-0018",
-    "Variant": "S",
-    "Description": "SP325W318-0018_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W318-0018",
-    "Variant": "XL",
-    "Description": "SP325W318-0018_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W318-00AQ",
-    "Variant": "L",
-    "Description": "SP325W318-00AQ_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W318-00AQ",
-    "Variant": "M",
-    "Description": "SP325W318-00AQ_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W318-00AQ",
-    "Variant": "S",
-    "Description": "SP325W318-00AQ_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W318-00AQ",
-    "Variant": "XL",
-    "Description": "SP325W318-00AQ_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W318-00KW",
-    "Variant": "L",
-    "Description": "SP325W318-00KW_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W318-00KW",
-    "Variant": "M",
-    "Description": "SP325W318-00KW_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W318-00KW",
-    "Variant": "S",
-    "Description": "SP325W318-00KW_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W318-00KW",
-    "Variant": "XL",
-    "Description": "SP325W318-00KW_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W318-00KW",
-    "Variant": "XXL",
-    "Description": "SP325W318-00KW_SHORTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
+    "Item No.": "SP325W319-0018",
+    "Variant": "SP325W319-0018_PANTS",
+    "Description": "PCS",
+    "UOM": "-",
+    "Net Inventory": ""
   },
   {
     "Item No.": "SP325W319-0018",
-    "Variant": "L",
-    "Description": "SP325W319-0018_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
+    "Variant": "SP325W319-0018_PANTS",
+    "Description": "PCS",
+    "UOM": "-",
+    "Net Inventory": ""
   },
   {
     "Item No.": "SP325W319-0018",
-    "Variant": "M",
-    "Description": "SP325W319-0018_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
+    "Variant": "SP325W319-0018_PANTS",
+    "Description": "PCS",
+    "UOM": "-",
+    "Net Inventory": ""
   },
   {
     "Item No.": "SP325W319-0018",
-    "Variant": "S",
-    "Description": "SP325W319-0018_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
-  },
-  {
-    "Item No.": "SP325W319-0018",
-    "Variant": "XL",
-    "Description": "SP325W319-0018_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
+    "Variant": "SP325W319-0018_PANTS",
+    "Description": "PCS",
+    "UOM": "-",
+    "Net Inventory": ""
   },
   {
     "Item No.": "SP325W319-004S",
-    "Variant": "L",
-    "Description": "SP325W319-004S_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
+    "Variant": "SP325W319-004S_PANTS",
+    "Description": "PCS",
+    "UOM": "-",
+    "Net Inventory": ""
   },
   {
     "Item No.": "SP325W319-004S",
-    "Variant": "M",
-    "Description": "SP325W319-004S_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
+    "Variant": "SP325W319-004S_PANTS",
+    "Description": "PCS",
+    "UOM": "-",
+    "Net Inventory": ""
   },
   {
     "Item No.": "SP325W319-004S",
-    "Variant": "S",
-    "Description": "SP325W319-004S_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
+    "Variant": "SP325W319-004S_PANTS",
+    "Description": "PCS",
+    "UOM": "-",
+    "Net Inventory": ""
   },
   {
     "Item No.": "SP325W319-004S",
-    "Variant": "XL",
-    "Description": "SP325W319-004S_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
+    "Variant": "SP325W319-004S_PANTS",
+    "Description": "PCS",
+    "UOM": "-",
+    "Net Inventory": ""
   },
   {
     "Item No.": "SP325W319-004S",
-    "Variant": "XXL",
-    "Description": "SP325W319-004S_PANTS",
-    "UOM": "PCS",
-    "Net Inventory": "-"
+    "Variant": "SP325W319-004S_PANTS",
+    "Description": "PCS",
+    "UOM": "-",
+    "Net Inventory": ""
   },
   {
     "Item No.": "SP424M593-BLU1",
