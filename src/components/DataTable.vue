@@ -54,9 +54,9 @@ export default {
               <h6 v-show="row.isOnPromotion" :class="row.proCat">
                 โปรโมชั่น : {{ row.proName }}
                 <span v-if="row.proCat == 'Sale'" class="desc">
-                  (1-30 ก.ย 2568)</span
+                  (1-31 ต.ค 2568)</span
                 >
-                <span v-else class="desc"> (10-30 ก.ย 2568)</span>
+                <span v-else class="desc"> (1-31 ต.ค 2568)</span>
               </h6>
               <div class="inner-price-table">
                 <h6 class="reg-price" v-show="!row.isOnPromotion">
@@ -142,12 +142,12 @@ export default {
 
 .Main {
   color: black;
-  background-color: navajowhite;
+  background-color: plum;
   padding: 5px;
 }
 
 .Main-price {
-  color: rgb(188, 142, 26);
+  color: purple;
 }
 
 .Sale {
@@ -161,7 +161,7 @@ export default {
 }
 
 .Main-price-table {
-  border: goldenrod 1px solid;
+  border: darkmagenta 1px solid;
 }
 
 .Sale-price-table {
