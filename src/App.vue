@@ -3,6 +3,7 @@ import data from "./assets/stock.json";
 import location from "./assets/location.json";
 import price from "./assets/price.json";
 import promotion from "./assets/promotion.json";
+import promotion2 from "./assets/promotion2.json";
 
 import datatable from "./components/DataTable.vue";
 import singleitem from "./components/SingleItem.vue";
@@ -116,12 +117,25 @@ export default {
             item.disc = "5%";
             item.sale = (
               Number(proPrice["Retail Price"].replace(",", "")) * 0.95
-            )
-              .toFixed(2)
-              .toLocaleString("en-US");
+            ).toLocaleString("en-US", { minimumFractionDigits: 2 });
             item.isOnPromotion = true;
             item.proName = "October Chills & Thrills";
             item.proCat = "Main";
+          }
+        });
+      });
+
+      // Add additional promotion 2
+      promotion2.forEach((proPrice) => {
+        items.forEach((item) => {
+          if (proPrice["No."] === item.name) {
+            item.disc = "20%";
+            item.sale = (
+              Number(proPrice["Retail Price"].replace(",", "")) * 0.8
+            ).toLocaleString("en-US");
+            item.isOnPromotion = true;
+            item.proName = "Special Promotion";
+            item.proCat = "Special";
           }
         });
       });

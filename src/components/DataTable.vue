@@ -160,12 +160,26 @@ export default {
   color: maroon;
 }
 
+.Special {
+  color: beige;
+  background-color: orangered;
+  padding: 5px;
+}
+
+.Special-price {
+  color: orangered;
+}
+
 .Main-price-table {
   border: darkmagenta 1px solid;
 }
 
 .Sale-price-table {
   border: Maroon 1px solid;
+}
+
+.Special-price-table {
+  border: orangered 1px solid;
 }
 
 .inner-price-table {
