@@ -60,7 +60,7 @@ export default {
               </h6>
               <div class="inner-price-table">
                 <h6 class="reg-price" v-show="!row.isOnPromotion">
-                  ราคา<span> {{ row.price }}-</span>
+                  ราคา <span> {{ row.price }}-</span>
                 </h6>
                 <h6 v-show="row.isOnPromotion">ราคาเต็ม {{ row.price }}-</h6>
                 <h5 v-show="row.isOnPromotion" :class="row.proCat + '-price'">
